@@ -1,0 +1,2490 @@
+
+-- Andaman and Nicobar Islands
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(744101, 'Andaman and Nicobar Islands'),
+(744102, 'Andaman and Nicobar Islands'),
+(744103, 'Andaman and Nicobar Islands'),
+(744104, 'Andaman and Nicobar Islands'),
+(744105, 'Andaman and Nicobar Islands');
+
+-- Andhra Pradesh
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(500011, 'Andhra Pradesh'),
+(500012, 'Andhra Pradesh'),
+(500013, 'Andhra Pradesh'),
+(500014, 'Andhra Pradesh'),
+(500015, 'Andhra Pradesh');
+
+-- Arunachal Pradesh
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(791101, 'Arunachal Pradesh'),
+(791102, 'Arunachal Pradesh'),
+(791103, 'Arunachal Pradesh'),
+(791104, 'Arunachal Pradesh'),
+(791105, 'Arunachal Pradesh');
+
+-- Assam
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(781001, 'Assam'),
+(781002, 'Assam'),
+(781003, 'Assam'),
+(781004, 'Assam'),
+(781005, 'Assam');
+
+-- Bihar
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(800001, 'Bihar'),
+(800002, 'Bihar'),
+(800003, 'Bihar'),
+(800004, 'Bihar'),
+(800005, 'Bihar');
+
+-- Chandigarh
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(160001, 'Chandigarh'),
+(160002, 'Chandigarh'),
+(160003, 'Chandigarh'),
+(160004, 'Chandigarh'),
+(160005, 'Chandigarh');
+
+-- Chhattisgarh
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(490001, 'Chhattisgarh'),
+(490002, 'Chhattisgarh'),
+(490003, 'Chhattisgarh'),
+(490004, 'Chhattisgarh'),
+(490005, 'Chhattisgarh');
+
+-- Dadra and Nagar Haveli and Daman and Diu
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(396001, 'Dadra and Nagar Haveli and Daman and Diu'),
+(396002, 'Dadra and Nagar Haveli and Daman and Diu'),
+(396003, 'Dadra and Nagar Haveli and Daman and Diu'),
+(396004, 'Dadra and Nagar Haveli and Daman and Diu'),
+(396005, 'Dadra and Nagar Haveli and Daman and Diu');
+
+-- Delhi
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(110001, 'Delhi'),
+(110002, 'Delhi'),
+(110003, 'Delhi'),
+(110004, 'Delhi'),
+(110005, 'Delhi');
+
+-- Goa
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(403001, 'Goa'),
+(403002, 'Goa'),
+(403003, 'Goa'),
+(403004, 'Goa'),
+(403005, 'Goa');
+
+-- Gujarat
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(380001, 'Gujarat'),
+(380002, 'Gujarat'),
+(380003, 'Gujarat'),
+(380004, 'Gujarat'),
+(380005, 'Gujarat');
+
+-- Haryana
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(122001, 'Haryana'),
+(122002, 'Haryana'),
+(122003, 'Haryana'),
+(122004, 'Haryana'),
+(122005, 'Haryana');
+
+-- Himachal Pradesh
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(171001, 'Himachal Pradesh'),
+(171002, 'Himachal Pradesh'),
+(171003, 'Himachal Pradesh'),
+(171004, 'Himachal Pradesh'),
+(171005, 'Himachal Pradesh');
+
+-- Jammu and Kashmir
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(190001, 'Jammu and Kashmir'),
+(190002, 'Jammu and Kashmir'),
+(190003, 'Jammu and Kashmir'),
+(190004, 'Jammu and Kashmir'),
+(190005, 'Jammu and Kashmir');
+
+-- Jharkhand
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(834001, 'Jharkhand'),
+(834002, 'Jharkhand'),
+(834003, 'Jharkhand'),
+(834004, 'Jharkhand'),
+(834005, 'Jharkhand');
+
+-- Karnataka
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(560001, 'Karnataka'),
+(560002, 'Karnataka'),
+(560003, 'Karnataka'),
+(560004, 'Karnataka'),
+(560005, 'Karnataka');
+
+-- Kerala
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(682001, 'Kerala'),
+(682002, 'Kerala'),
+(682003, 'Kerala'),
+(682004, 'Kerala'),
+(682005, 'Kerala');
+
+
+
+-- Madhya Pradesh
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(462001, 'Madhya Pradesh'),
+(462002, 'Madhya Pradesh'),
+(462003, 'Madhya Pradesh'),
+(462004, 'Madhya Pradesh'),
+(462005, 'Madhya Pradesh');
+
+-- Maharashtra
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(400001, 'Maharashtra'),
+(400002, 'Maharashtra'),
+(400003, 'Maharashtra'),
+(400004, 'Maharashtra'),
+(400005, 'Maharashtra');
+
+-- Manipur
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(795001, 'Manipur'),
+(795002, 'Manipur'),
+(795003, 'Manipur'),
+(795004, 'Manipur'),
+(795005, 'Manipur');
+
+-- Meghalaya
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(793001, 'Meghalaya'),
+(793002, 'Meghalaya'),
+(793003, 'Meghalaya'),
+(793004, 'Meghalaya'),
+(793005, 'Meghalaya');
+
+-- Mizoram
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(796001, 'Mizoram'),
+(796002, 'Mizoram'),
+(796003, 'Mizoram'),
+(796004, 'Mizoram'),
+(796005, 'Mizoram');
+
+-- Nagaland
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(797112, 'Nagaland'),
+(797113, 'Nagaland'),
+(797114, 'Nagaland'),
+(797115, 'Nagaland'),
+(797116, 'Nagaland');
+
+-- Odisha
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(751001, 'Odisha'),
+(751002, 'Odisha'),
+(751003, 'Odisha'),
+(751004, 'Odisha'),
+(751005, 'Odisha');
+
+-- Puducherry
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(605001, 'Puducherry'),
+(605002, 'Puducherry'),
+(605003, 'Puducherry'),
+(605004, 'Puducherry'),
+(605005, 'Puducherry');
+
+-- Punjab
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(140001, 'Punjab'),
+(140002, 'Punjab'),
+(140003, 'Punjab'),
+(140004, 'Punjab'),
+(140005, 'Punjab');
+
+-- Rajasthan
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(302001, 'Rajasthan'),
+(302002, 'Rajasthan'),
+(302003, 'Rajasthan'),
+(302004, 'Rajasthan'),
+(302005, 'Rajasthan');
+
+-- Sikkim
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(737101, 'Sikkim'),
+(737102, 'Sikkim'),
+(737103, 'Sikkim'),
+(737104, 'Sikkim'),
+(737105, 'Sikkim');
+
+-- Tamil Nadu
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(600001, 'Tamil Nadu'),
+(600002, 'Tamil Nadu'),
+(600003, 'Tamil Nadu'),
+(600004, 'Tamil Nadu'),
+(600005, 'Tamil Nadu');
+
+-- Telangana
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(500001, 'Telangana'),
+(500002, 'Telangana'),
+(500003, 'Telangana'),
+(500004, 'Telangana'),
+(500005, 'Telangana');
+
+-- Tripura
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(799001, 'Tripura'),
+(799002, 'Tripura'),
+(799003, 'Tripura'),
+(799004, 'Tripura'),
+(799005, 'Tripura');
+
+-- Uttar Pradesh
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(200001, 'Uttar Pradesh'),
+(200002, 'Uttar Pradesh'),
+(200003, 'Uttar Pradesh'),
+(200004, 'Uttar Pradesh'),
+(200005, 'Uttar Pradesh');
+
+-- Uttarakhand
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(248001, 'Uttarakhand'),
+(248002, 'Uttarakhand'),
+(248003, 'Uttarakhand'),
+(248004, 'Uttarakhand'),
+(248005, 'Uttarakhand');
+
+-- West Bengal
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(700001, 'West Bengal'),
+(700002, 'West Bengal'),
+(700003, 'West Bengal'),
+(700004, 'West Bengal'),
+(700005, 'West Bengal');
+
+-- Ladakh
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(194101, 'Ladakh'),
+(194102, 'Ladakh'),
+(194103, 'Ladakh'),
+(194104, 'Ladakh'),
+(194105, 'Ladakh');
+
+-- Lakshadweep
+INSERT INTO PIN (PINCODE, STATE) VALUES
+(682011, 'Lakshadweep'),
+(682012, 'Lakshadweep'),
+(682013, 'Lakshadweep'),
+(682014, 'Lakshadweep'),
+(682015, 'Lakshadweep');
+
+-- Sample data for LOCAL table
+INSERT INTO LOCAL (LOCALITY, PINCODE, STATE) VALUES
+('Port Blair', 744101, 'Andaman and Nicobar Islands'),
+('Haddo', 744102, 'Andaman and Nicobar Islands'),
+('Bambooflat', 744103, 'Andaman and Nicobar Islands'),
+('Garacharma', 744104, 'Andaman and Nicobar Islands'),
+('Rangat', 744105, 'Andaman and Nicobar Islands'),
+
+('Hyderabad', 500011, 'Andhra Pradesh'),
+('Visakhapatnam', 500012, 'Andhra Pradesh'),
+('Vijayawada', 500013, 'Andhra Pradesh'),
+('Guntur', 500014, 'Andhra Pradesh'),
+('Tirupati', 500015, 'Andhra Pradesh'),
+
+('Itanagar', 791101, 'Arunachal Pradesh'),
+('Naharlagun', 791102, 'Arunachal Pradesh'),
+('Pasighat', 791103, 'Arunachal Pradesh'),
+('Roing', 791104, 'Arunachal Pradesh'),
+('Tezu', 791105, 'Arunachal Pradesh'),
+
+('Guwahati', 781001, 'Assam'),
+('Silchar', 781002, 'Assam'),
+('Dibrugarh', 781003, 'Assam'),
+('Jorhat', 781004, 'Assam'),
+('Nagaon', 781005, 'Assam'),
+
+('Patna', 800001, 'Bihar'),
+('Gaya', 800002, 'Bihar'),
+('Bhagalpur', 800003, 'Bihar'),
+('Muzaffarpur', 800004, 'Bihar'),
+('Purnia', 800005, 'Bihar');
+
+-- Continued sample data for LOCAL table
+
+-- Chandigarh
+INSERT INTO local(LOCALITY, PINCODE, STATE) VALUES
+('Sector 1', 160001, 'Chandigarh'),
+('Sector 2', 160002, 'Chandigarh'),
+('Sector 3', 160003, 'Chandigarh'),
+('Sector 4', 160004, 'Chandigarh'),
+('Sector 5', 160005, 'Chandigarh');
+
+-- Chhattisgarh
+INSERT INTO LOCAL (LOCALITY, PINCODE, STATE) VALUES
+('Raipur', 490001, 'Chhattisgarh'),
+('Bhilai', 490002, 'Chhattisgarh'),
+('Bilaspur', 490003, 'Chhattisgarh'),
+('Korba', 490004, 'Chhattisgarh'),
+('Durg', 490005, 'Chhattisgarh');
+
+-- Dadra and Nagar Haveli and Daman and Diu
+INSERT INTO LOCAL (LOCALITY, PINCODE, STATE) VALUES
+('Dadra', 396001, 'Dadra and Nagar Haveli and Daman and Diu'),
+('Silvassa', 396002, 'Dadra and Nagar Haveli and Daman and Diu'),
+('Nani Daman', 396003, 'Dadra and Nagar Haveli and Daman and Diu'),
+('Diu', 396004, 'Dadra and Nagar Haveli and Daman and Diu'),
+('Daman', 396005, 'Dadra and Nagar Haveli and Daman and Diu');
+
+-- Delhi
+INSERT INTO LOCAL (LOCALITY, PINCODE, STATE) VALUES
+('Connaught Place', 110001, 'Delhi'),
+('Karol Bagh', 110002, 'Delhi'),
+('Dwarka', 110003, 'Delhi'),
+('Nehru Place', 110004, 'Delhi'),
+('Chanakyapuri', 110005, 'Delhi'),
+('Panaji', 403001, 'Goa'),
+('Margao', 403002, 'Goa'),
+('Vasco da Gama', 403003, 'Goa'),
+('Mapusa', 403004, 'Goa'),
+('Ponda', 403005, 'Goa'),
+('Ahmedabad', 380001, 'Gujarat'),
+('Surat', 380002, 'Gujarat'),
+('Vadodara', 380003, 'Gujarat'),
+('Rajkot', 380004, 'Gujarat'),
+('Gandhinagar', 380005, 'Gujarat'),
+('Gurugram', 122001, 'Haryana'),
+('Faridabad', 122002, 'Haryana'),
+('Hisar', 122003, 'Haryana'),
+('Panipat', 122004, 'Haryana'),
+('Ambala', 122005, 'Haryana'),
+('Shimla', 171001, 'Himachal Pradesh'),
+('Mandi', 171002, 'Himachal Pradesh'),
+('Dharamshala', 171003, 'Himachal Pradesh'),
+('Solan', 171004, 'Himachal Pradesh'),
+('Kullu', 171005, 'Himachal Pradesh'),
+('Srinagar', 190001, 'Jammu and Kashmir'),
+('Jammu', 190002, 'Jammu and Kashmir'),
+('Anantnag', 190003, 'Jammu and Kashmir'),
+('Baramulla', 190004, 'Jammu and Kashmir'),
+('Udhampur', 190005, 'Jammu and Kashmir'),
+('Ranchi', 834001, 'Jharkhand'),
+('Jamshedpur', 834002, 'Jharkhand'),
+('Dhanbad', 834003, 'Jharkhand'),
+('Bokaro Steel City', 834004, 'Jharkhand'),
+('Deoghar', 834005, 'Jharkhand'),
+('Bangalore', 560001, 'Karnataka'),
+('Hubli', 560002, 'Karnataka'),
+('Mangalore', 560003, 'Karnataka'),
+('Mysore', 560004, 'Karnataka'),
+('Belgaum', 560005, 'Karnataka'),
+('Kochi', 682001, 'Kerala'),
+('Thiruvananthapuram', 682002, 'Kerala'),
+('Kozhikode', 682003, 'Kerala'),
+('Kollam', 682004, 'Kerala'),
+('Thrissur', 682005, 'Kerala'),
+('Kavaratti', 682011, 'Lakshadweep'),
+('Agatti', 682012, 'Lakshadweep'),
+('Amini', 682013, 'Lakshadweep'),
+('Andrott', 682014, 'Lakshadweep'),
+('Minicoy', 682015, 'Lakshadweep'),
+('Leh', 194101, 'Ladakh'),
+('Kargil', 194102, 'Ladakh'),
+('Nubra Valley', 194103, 'Ladakh'),
+('Drass', 194104, 'Ladakh'),
+('Zanskar', 194105, 'Ladakh');
+
+
+
+-- Sample data for ENROLLMENT_CENTER table with updated EC_TYPE column
+INSERT INTO ENROLLMENT_CENTER (EC_ID, EC_TYPE, EC_NAME, PIN, LOCALITY) VALUES
+-- Andaman and Nicobar Islands
+(101, 'Government', 'Andaman Aadhar Center', 744101, 'Port Blair'),
+(102, 'Private', 'Nicobar Aadhar Center', 744102, 'Haddo'),
+(103, 'Government', 'Bambooflat Aadhar Center', 744103, 'Bambooflat'),
+(104, 'Private', 'Garacharma Aadhar Center', 744104, 'Garacharma'),
+(105, 'Government', 'Rangat Aadhar Center', 744105, 'Rangat'),
+
+-- Andhra Pradesh
+(106, 'Government', 'Hyderabad Aadhar Center', 500011,'Hyderabad'),
+(107, 'Private', 'Visakhapatnam Aadhar Center', 500012, 'Visakhapatnam'),
+(108, 'Government', 'Vijayawada Aadhar Center', 500013, 'Vijayawada'),
+(109, 'Private', 'Guntur Aadhar Center', 500014, 'Guntur'),
+(110, 'Government', 'Tirupati Aadhar Center', 500015, 'Tirupati'),
+
+-- Arunachal Pradesh
+(111, 'Government', 'Itanagar Aadhar Center', 791101, 'Itanagar'),
+(112, 'Private', 'Naharlagun Aadhar Center', 791102, 'Naharlagun'),
+(113, 'Government', 'Pasighat Aadhar Center', 791103, 'Pasighat'),
+(114, 'Private', 'Roing Aadhar Center', 791104, 'Roing'),
+(115, 'Government', 'Tezu Aadhar Center', 791105, 'Tezu'),
+
+-- Assam
+(116, 'Government', 'Guwahati Aadhar Center', 781001, 'Guwahati'),
+(117, 'Private', 'Silchar Aadhar Center', 781002, 'Silchar'),
+(118, 'Government', 'Dibrugarh Aadhar Center', 781003, 'Dibrugarh'),
+(119, 'Private', 'Jorhat Aadhar Center', 781004, 'Jorhat'),
+(120, 'Government', 'Nagaon Aadhar Center', 781005, 'Nagaon'),
+
+-- Bihar
+(121, 'Government', 'Patna Aadhar Center', 800001, 'Patna'),
+(122, 'Private', 'Gaya Aadhar Center', 800002, 'Gaya'),
+(123, 'Government', 'Bhagalpur Aadhar Center', 800003, 'Bhagalpur'),
+(124, 'Private', 'Muzaffarpur Aadhar Center', 800004, 'Muzaffarpur'),
+(125, 'Government', 'Purnia Aadhar Center', 800005, 'Purnia'),
+
+-- Chandigarh
+(126, 'Government', 'Chandigarh Aadhar Center 1', 160001, 'Sector 1'),
+(127, 'Private', 'Chandigarh Aadhar Center 2', 160002, 'Sector 2'),
+(128, 'Government', 'Chandigarh Aadhar Center 3', 160003, 'Sector 3'),
+(129, 'Private', 'Chandigarh Aadhar Center 4', 160004, 'Sector 4'),
+(130, 'Government', 'Chandigarh Aadhar Center 5', 160005, 'Sector 5'),
+
+-- Chhattisgarh
+(131, 'Government', 'Raipur Aadhar Center', 490001, 'Raipur'),
+(132, 'Private', 'Bhilai Aadhar Center', 490002, 'Bhilai'),
+(133, 'Government', 'Bilaspur Aadhar Center', 490003, 'Bilaspur'),
+(134, 'Private', 'Korba Aadhar Center', 490004, 'Korba'),
+(135, 'Government', 'Durg Aadhar Center', 490005, 'Durg'),
+
+-- Dadra and Nagar Haveli and Daman and Diu
+(136, 'Government', 'Dadra Aadhar Center', 396001, 'Dadra'),
+(137, 'Private', 'Silvassa Aadhar Center', 396002, 'Silvassa'),
+(138, 'Government', 'Nani Daman Aadhar Center', 396003, 'Nani Daman'),
+(139, 'Private', 'Diu Aadhar Center', 396004, 'Diu'),
+(140, 'Government', 'Daman Aadhar Center', 396005, 'Daman'),
+
+-- Delhi
+(141, 'Government', 'Connaught Place Aadhar Center', 110001, 'Connaught Place'),
+(142, 'Private', 'Karol Bagh Aadhar Center', 110002, 'Karol Bagh'),
+(143, 'Government', 'Dwarka Aadhar Center', 110003, 'Dwarka'),
+(144, 'Private', 'Nehru Place Aadhar Center', 110004, 'Nehru Place'),
+(145, 'Government', 'Chanakyapuri Aadhar Center', 110005, 'Chanakyapuri'),
+
+-- Goa
+(146, 'Government', 'Panaji Aadhar Center', 403001, 'Panaji'),
+(147, 'Private', 'Margao Aadhar Center', 403002, 'Margao'),
+(148, 'Government', 'Vasco da Gama Aadhar Center', 403003, 'Vasco da Gama'),
+(149, 'Private', 'Mapusa Aadhar Center', 403004, 'Mapusa'),
+(150, 'Government', 'Ponda Aadhar Center', 403005, 'Ponda'),
+
+-- Gujarat
+(151, 'Government', 'Ahmedabad Aadhar Center', 380001, 'Ahmedabad'),
+(152, 'Private', 'Surat Aadhar Center', 380002, 'Surat'),
+(153, 'Government', 'Vadodara Aadhar Center', 380003, 'Vadodara'),
+(154, 'Private', 'Rajkot Aadhar Center', 380004, 'Rajkot'),
+(155, 'Government', 'Gandhinagar Aadhar Center', 380005, 'Gandhinagar'),
+
+-- Haryana
+(156, 'Government', 'Gurugram Aadhar Center', 122001, 'Gurugram'),
+(157, 'Private', 'Faridabad Aadhar Center', 122002, 'Faridabad'),
+(158, 'Government', 'Hisar Aadhar Center', 122003, 'Hisar'),
+(159, 'Private', 'Panipat Aadhar Center', 122004, 'Panipat'),
+(160, 'Government',
+
+'Ambala Aadhar Center', 122005, 'Ambala'),
+
+-- Himachal Pradesh
+(161, 'Government', 'Shimla Aadhar Center', 171001, 'Shimla'),
+(162, 'Private', 'Mandi Aadhar Center', 171002, 'Mandi'),
+(163, 'Government', 'Dharamshala Aadhar Center', 171003, 'Dharamshala'),
+(164, 'Private', 'Solan Aadhar Center', 171004, 'Solan'),
+(165, 'Government', 'Kullu Aadhar Center', 171005, 'Kullu'),
+
+-- Jammu and Kashmir
+(166, 'Government', 'Srinagar Aadhar Center', 190001, 'Srinagar'),
+(167, 'Private', 'Jammu Aadhar Center', 190002, 'Jammu'),
+(168, 'Government', 'Anantnag Aadhar Center', 190003, 'Anantnag'),
+(169, 'Private', 'Baramulla Aadhar Center', 190004, 'Baramulla'),
+(170, 'Government', 'Udhampur Aadhar Center', 190005, 'Udhampur'),
+
+-- Jharkhand
+(171, 'Government', 'Ranchi Aadhar Center', 834001, 'Ranchi'),
+(172, 'Private', 'Jamshedpur Aadhar Center', 834002, 'Jamshedpur'),
+(173, 'Government', 'Dhanbad Aadhar Center', 834003, 'Dhanbad'),
+(174, 'Private', 'Bokaro Steel City Aadhar Center', 834004, 'Bokaro Steel City'),
+(175, 'Government', 'Deoghar Aadhar Center', 834005, 'Deoghar'),
+
+-- Karnataka
+(176, 'Government', 'Bangalore Aadhar Center', 560001, 'Bangalore'),
+(177, 'Private', 'Hubli Aadhar Center', 560002, 'Hubli'),
+(178, 'Government', 'Mangalore Aadhar Center', 560003, 'Mangalore'),
+(179, 'Private', 'Mysore Aadhar Center', 560004, 'Mysore'),
+(180, 'Government', 'Belgaum Aadhar Center', 560005, 'Belgaum'),
+
+-- Kerala
+(181, 'Government', 'Kochi Aadhar Center', 682001, 'Kochi'),
+(182, 'Private', 'Thiruvananthapuram Aadhar Center', 682002, 'Thiruvananthapuram'),
+(183, 'Government', 'Kozhikode Aadhar Center', 682003, 'Kozhikode'),
+(184, 'Private', 'Kollam Aadhar Center', 682004, 'Kollam'),
+(185, 'Government', 'Thrissur Aadhar Center', 682005, 'Thrissur'),
+
+-- Lakshadweep
+(186, 'Government', 'Kavaratti Aadhar Center', 682011, 'Kavaratti'),
+(187, 'Private', 'Agatti Aadhar Center', 682012, 'Agatti'),
+(188, 'Government', 'Amini Aadhar Center', 682013, 'Amini'),
+(189, 'Private', 'Andrott Aadhar Center', 682014, 'Andrott'),
+(190, 'Government', 'Minicoy Aadhar Center', 682015, 'Minicoy'),
+
+-- Ladakh
+(191, 'Government', 'Leh Aadhar Center', 194101, 'Leh'),
+(192, 'Private', 'Kargil Aadhar Center', 194102, 'Kargil'),
+(193, 'Government', 'Nubra Valley Aadhar Center', 194103, 'Nubra Valley'),
+(194, 'Private', 'Drass Aadhar Center', 194104, 'Drass'),
+(195, 'Government', 'Zanskar Aadhar Center', 194105, 'Zanskar');
+
+
+
+-- Sample data for CITIZEN table
+
+INSERT INTO CITIZEN (CITIZEN_NO, GENDER, NAME, DOB, LOCALITY, PINCODE, EC_ID) VALUES
+-- Andaman and Nicobar Islands
+(1, 'M', 'John Doe', '1990-05-15', 'Port Blair', 744101, 101),
+(2, 'F', 'Jane Smith', '1988-09-20', 'Haddo', 744102, 102),
+(3, 'M', 'Michael Johnson', '1995-03-10', 'Bambooflat', 744103, 103),
+(4, 'F', 'Emily Brown', '1992-07-28', 'Garacharma', 744104, 104),
+(5, 'M', 'William Davis', '1987-11-03', 'Rangat', 744105, 105),
+
+-- Andhra Pradesh
+(6, 'F', 'Mary Wilson', '1984-04-12', 'Hyderabad', 500011, 106),
+(7, 'M', 'David Jones', '1998-12-30', 'Visakhapatnam', 500012, 107),
+(8, 'F', 'Jennifer Martinez', '1991-08-25', 'Vijayawada', 500013, 108),
+(9, 'M', 'Christopher Taylor', '1989-06-18', 'Guntur', 500014, 109),
+(10, 'F', 'Jessica Garcia', '1994-02-08', 'Tirupati', 500015, 110),
+
+-- Arunachal Pradesh
+(11, 'M', 'Daniel Rodriguez', '1993-10-05', 'Itanagar', 791101, 111),
+(12, 'F', 'Sarah Lee', '1997-01-25', 'Naharlagun', 791102, 112),
+(13, 'M', 'Matthew Clark', '1986-06-15', 'Pasighat', 791103, 113),
+(14, 'F', 'Amanda Walker', '1990-09-18', 'Roing', 791104, 114),
+(15, 'M', 'Joseph Hall', '1985-03-22', 'Tezu', 791105, 115),
+
+-- Assam
+(16, 'F', 'Olivia Wright', '1983-07-10', 'Guwahati', 781001, 116),
+(17, 'M', 'Alexander Scott', '1996-11-28', 'Silchar', 781002, 117),
+(18, 'F', 'Sophia Green', '1999-05-17', 'Dibrugarh', 781003, 118),
+(19, 'M', 'James Adams', '1987-01-09', 'Jorhat', 781004, 119),
+(20, 'F', 'Charlotte Baker', '1992-04-03', 'Nagaon', 781005, 120),
+
+-- Bihar
+(21, 'M', 'Benjamin Hill', '1988-12-20', 'Patna', 800001, 121),
+(22, 'F', 'Evelyn Reed', '1993-09-15', 'Gaya', 800002, 122),
+(23, 'M', 'Samuel Carter', '1985-06-08', 'Bhagalpur', 800003, 123),
+(24, 'F', 'Grace Price', '1997-03-12', 'Muzaffarpur', 800004, 124),
+(25, 'M', 'Nathan Cook', '1990-02-05', 'Purnia', 800005, 125),
+
+-- Chandigarh
+(26, 'F', 'Hannah Ramirez', '1995-08-28', 'Sector 1', 160001, 126),
+(27, 'M', 'William Russell', '1989-11-14', 'Sector 2', 160002, 127),
+(28, 'F', 'Elizabeth Watson', '1991-01-30', 'Sector 3', 160003, 128),
+(29, 'M', 'Daniel White', '1984-05-25', 'Sector 4', 160004, 129),
+(30, 'F', 'Isabella Stewart', '1987-03-18', 'Sector 5', 160005, 130),
+
+-- Chhattisgarh
+(31, 'M', 'Liam Diaz', '1996-04-22', 'Raipur', 490001, 131),
+(32, 'F', 'Victoria Coleman', '1990-10-15', 'Bhilai', 490002, 132),
+(33, 'M', 'Dylan Morris', '1983-12-08', 'Bilaspur', 490003, 133),
+(34, 'F', 'Zoe Peterson', '1999-07-03', 'Korba', 490004, 134),
+(35, 'M', 'Ethan Murphy', '1986-02-17', 'Durg', 490005, 135),
+
+-- Dadra and Nagar Haveli and Daman and Diu
+(36, 'F', 'Madison Rivera', '1994-11-30', 'Dadra', 396001, 136),
+(37, 'M', 'Aiden Ward', '1987-09-25', 'Silvassa', 396002, 137),
+(38, 'F', 'Chloe Perry', '1998-03-10', 'Nani Daman', 396003, 138),
+(39, 'M', 'Mason Mitchell', '1989-06-18', 'Diu', 396004, 139),
+(40, 'F', 'Scarlett Morgan', '1993-02-05', 'Daman', 396005, 140),
+
+-- Delhi
+(41, 'M', 'Gabriel Bell', '1984-08-12', 'Connaught Place', 110001, 141),
+(42, 'F', 'Avery Turner', '1992-01-18', 'Karol Bagh', 110002, 142),
+(43, 'M', 'Lucas Brooks', '1997-06-05', 'Dwarka', 110003, 143),
+(44, 'F', 'Penelope Coleman', '1988-04-30', 'Nehru Place', 110004, 144),
+(45, 'M', 'Matthew Stewart', '1995-10-22', 'Chanakyapuri', 110005, 145),
+
+-- Goa
+(46, 'F', 'Aria Kelly', '1986-03-25', 'Panaji', 403001, 146),
+(47, 'M', 'Jackson Cooper', '1991-12-18', 'Margao', 403002, 147),
+(48, 'F', 'Natalie Reed', '1999-09-10', 'Vasco da Gama', 403003, 148),
+(49, 'M', 'Oliver Richardson', '1983-05-08', 'Mapusa', 403004, 149),
+(50, 'F', 'Lily Hill', '1996-07-03', 'Ponda', 403005, 150),
+
+-- Gujarat
+(51, 'M', 'Sebastian Bailey', '1993-02-20', 'Ahmedabad', 380001, 151),
+(52, 'F', 'Emma Parker', '1987-11-15', 'Surat', 380002, 152),
+(53, 'M', 'Alexander Reed', '1985-08-08', 'Vadodara', 380003, 153),
+(54, 'F', 'Madeline Carter', '1998-04-03', 'Rajkot', 380004, 154),
+(55, 'M', 'Derek Ward', '1991-10-28', 'Gandhinagar', 380005, 155),
+
+-- Haryana
+(56, 'F', 'Hailey Hayes', '1990-07-15', 'Gurugram', 122001, 156),
+(57, 'M', 'Nicholas Bell', '1984-05-10', 'Faridabad', 122002, 157),
+(58, 'F', 'Katherine Bennett', '1989-09-22', 'Hisar', 122003, 158),
+(59, 'M', 'Jackson Carter', '1995-03-18', 'Panipat', 122004, 159),
+(60, 'F', 'Leah Hughes', '1992-11-20', 'Ambala', 122005, 160),
+
+-- Himachal Pradesh
+(61, 'M', 'Christopher Simmons', '1986-08-02', 'Shimla', 171001, 161),
+(62, 'F', 'Bella Foster', '1997-01-05', 'Mandi', 171002, 162),
+(63, 'M', 'Henry Morgan', '1994-04-15', 'Dharamshala', 171003, 163),
+(64, 'F', 'Sophie Peterson', '1988-10-08', 'Solan', 171004, 164),
+(65, 'M', 'Jonathan Butler', '1983-12-22', 'Kullu', 171005, 165),
+
+-- Jammu and Kashmir
+(66, 'F', 'Luna Flores', '1993-07-10', 'Srinagar', 190001, 166),
+(67, 'M', 'Elijah Cooper', '1998-11-28', 'Jammu', 190002, 167),
+(68, 'F', 'Aurora Collins', '1990-05-17', 'Anantnag', 190003, 168),
+(69, 'M', 'Logan Brooks', '1987-01-09', 'Baramulla', 190004, 169),
+(70, 'F', 'Paisley Reed', '1995-04-03', 'Udhampur', 190005, 170),
+
+-- Jharkhand
+(71, 'M', 'Gavin Mitchell', '1996-03-22', 'Ranchi', 834001, 171),
+(72, 'F', 'Nova Ward', '1990-11-15', 'Jamshedpur', 834002, 172),
+(73, 'M', 'Hunter Reed', '1983-08-08', 'Dhanbad', 834003, 173),
+(74, 'F', 'Kennedy Carter', '1999-04-03', 'Bokaro Steel City', 834004, 174),
+(75, 'M', 'Brayden Ward', '1986-10-28', 'Deoghar', 834005, 175),
+
+-- Karnataka
+(76, 'F', 'Autumn Parker', '1993-01-20', 'Bangalore', 560001, 176),
+(77, 'M', 'Carter Reed', '1987-12-15', 'Hubli', 560002, 177),
+(78, 'F', 'Hazel Ward', '1985-08-08', 'Mangalore', 560003, 178),
+(79, 'M', 'Nolan Morgan', '1998-04-03', 'Mysore', 560004, 179),
+(80, 'F', 'Aubrey Hayes', '1991-10-28', 'Belgaum', 560005, 180),
+
+-- Kerala
+(81, 'M', 'Grayson Ward', '1984-03-15', 'Kochi', 682001, 181),
+(82, 'F', 'Brooklyn Bell', '1992-01-18', 'Thiruvananthapuram', 682002, 182),
+(83, 'M', 'Easton Rodriguez', '1997-06-05', 'Kozhikode', 682003, 183),
+(84, 'F', 'Kylie Coleman', '1988-04-30', 'Kollam', 682004, 184),
+(85, 'M', 'Sawyer Stewart', '1995-10-22', 'Thrissur', 682005, 185),
+
+-- Lakshadweep
+(86, 'F', 'Zara Rivera', '1986-03-25', 'Kavaratti', 682011, 186),
+(87, 'M', 'Wyatt Cooper', '1991-12-18', 'Agatti', 682012, 187),
+(88, 'F', 'Nevaeh Reed', '1999-09-10', 'Amini', 682013, 188),
+(89, 'M', 'Bentley Richardson', '1983-05-08', 'Andrott', 682014, 189),
+(90, 'F', 'Peyton Hill', '1996-07-03', 'Minicoy', 682015, 190),
+
+-- Ladakh
+(91, 'M', 'Weston Bailey', '1993-02-20', 'Leh', 194101, 191),
+(92, 'F', 'Amelia Parker', '1987-11-15', 'Kargil', 194102, 192),
+(93, 'M', 'Landon Reed', '1985-08-08', 'Nubra Valley', 194103, 193),
+(94, 'F', 'Kennedy Carter', '1998-04-03', 'Drass', 194104, 194),
+(95, 'M', 'Brayden Ward', '1991-10-28', 'Zanskar',194105,195);
+
+INSERT INTO CITIZEN (CITIZEN_NO, GENDER, NAME, DOB, LOCALITY, PINCODE, EC_ID) VALUES
+-- Andaman and Nicobar Islands
+(96, 'M', 'Narendra Modi', '1950-09-17', 'Port Blair', 744101, 101),
+(97, 'F', 'Kangana Ranaut', '1987-03-23', 'Haddo', 744102, 102),
+(98, 'M', 'Rahul Gandhi', '1970-06-19', 'Bambooflat', 744103, 103),
+(99, 'F', 'Priyanka Chopra', '1982-07-18', 'Garacharma', 744104, 104),
+(100, 'M', 'Amitabh Bachchan', '1942-10-11', 'Rangat', 744105, 105),
+
+-- Andhra Pradesh
+(101, 'F', 'Sonia Gandhi', '1946-12-09', 'Hyderabad', 500011, 106),
+(102, 'M', 'Pawan Kalyan', '1971-09-02', 'Visakhapatnam', 500012, 107),
+(103, 'F', 'Anushka Shetty', '1981-11-07', 'Vijayawada', 500013, 108),
+(104, 'M', 'Rajinikanth', '1950-12-12', 'Guntur', 500014, 109),
+(105, 'F', 'Deepika Padukone', '1986-01-05', 'Tirupati', 500015, 110),
+
+-- Arunachal Pradesh
+(106, 'M', 'Nitin Gadkari', '1957-05-27', 'Itanagar', 791101, 111),
+(107, 'F', 'Kareena Kapoor Khan', '1980-09-21', 'Naharlagun', 791102, 112),
+(108, 'M', 'Amit Shah', '1964-10-22', 'Pasighat', 791103, 113),
+(109, 'F', 'Alia Bhatt', '1993-03-15', 'Roing', 791104, 114),
+(110, 'M', 'Arvind Kejriwal', '1968-08-16', 'Tezu', 791105, 115),
+
+-- Assam
+(111, 'F', 'Indira Gandhi', '1917-11-19', 'Guwahati', 781001, 116),
+(112, 'M', 'Sarbananda Sonowal', '1962-10-31', 'Silchar', 781002, 117),
+(113, 'F', 'Mamata Banerjee', '1955-01-05', 'Dibrugarh', 781003, 118),
+(114, 'M', 'Manmohan Singh', '1932-09-26', 'Jorhat', 781004, 119),
+(115, 'F', 'Sushmita Dev', '1973-01-14', 'Nagaon', 781005, 120),
+
+-- Bihar
+(116, 'M', 'Lalu Prasad Yadav', '1948-06-11', 'Patna', 800001, 121),
+(117, 'F', 'Bhumi Pednekar', '1989-07-18', 'Gaya', 800002, 122),
+(118, 'M', 'Nitish Kumar', '1951-03-01', 'Bhagalpur', 800003, 123),
+(119, 'F', 'Preity Zinta', '1975-01-31', 'Muzaffarpur', 800004, 124),
+(120, 'M', 'Sushant Singh Rajput', '1986-01-21', 'Purnia', 800005, 125),
+
+-- Chandigarh
+(121, 'F', 'Priyanka Gandhi Vadra', '1972-01-12', 'Sector 1', 160001, 126),
+(122, 'M', 'Kapil Sharma', '1981-04-02', 'Sector 2', 160002, 127),
+(123, 'F', 'Kiran Kher', '1952-06-14', 'Sector 3', 160003, 128),
+(124, 'M', 'Manohar Lal Khattar', '1954-05-05', 'Sector 4', 160004, 129),
+(125, 'F', 'Hema Malini', '1948-10-16', 'Sector 5', 160005, 130),
+
+-- Chhattisgarh
+(126, 'M', 'Bhupesh Baghel', '1961-08-23', 'Raipur', 490001, 131),
+(127, 'F', 'Alka Lamba', '1975-09-21', 'Bhilai', 490002, 132),
+(128, 'M', 'Raman Singh', '1952-10-15', 'Bilaspur', 490003, 133),
+(129, 'F', 'Dimple Yadav', '1978-01-15', 'Korba', 490004, 134),
+(130, 'M', 'Ajit Jogi', '1946-04-29', 'Durg', 490005, 135),
+
+-- Dadra and Nagar Haveli and Daman and Diu
+(131, 'F', 'Soni Razdan', '1956-10-25', 'Dadra', 396001, 136),
+(132, 'M', 'Boman Irani', '1959-12-02', 'Silvassa', 396002, 137),
+(133, 'F', 'Rakhi Sawant', '1978-11-25', 'Nani Daman', 396003, 138),
+(134, 'M', 'Dilip Joshi', '1968-05-26', 'Diu', 396004, 139),
+(135, 'F', 'Hansika Motwani', '1991-08-09', 'Daman', 396005, 140),
+
+-- Delhi
+(136, 'M', 'Manish Sisodia', '1972-01-05', 'Connaught Place', 110001, 141),
+(137, 'F', 'Sheila Dikshit', '1938-03-31', 'Karol Bagh', 110002, 142),
+(138, 'M', 'Arvind Kejriwal', '1968-08-16', 'Dwarka', 110003, 143),
+(139, 'F', 'Kirron Kher', '1952-06-14', 'Nehru Place', 110004, 144),
+(140, 'M', 'Gautam Gambhir', '1981-10-14', 'Chanakyapuri', 110005, 145),
+
+-- Goa
+(141, 'F', 'Ileana DCruz', '1987-11-01', 'Panaji', 403001, 146),
+(142, 'M', 'Ravi Teja', '1968-01-26', 'Margao', 403002, 147),
+(143, 'F', 'Shruti Haasan', '1986-01-28', 'Vasco da Gama', 403003, 148),
+(144, 'M', 'Varun Dhawan', '1987-04-24', 'Mapusa', 403004, 149),
+(145, 'F', 'Kriti Sanon', '1990-07-27', 'Ponda', 403005, 150),
+
+-- Gujarat
+(146, 'M', 'Hardik Patel', '1993-07-20', 'Ahmedabad', 380001, 151),
+(147, 'F', 'Aishwarya Rai Bachchan', '1973-11-01', 'Surat', 380002, 152),
+(148, 'M', 'Narendra Modi', '1950-09-17', 'Vadodara', 380003, 153),
+(149, 'F', 'Deepika Padukone', '1986-01-05', 'Rajkot', 380004, 154),
+(150, 'M', 'Paresh Rawal', '1950-05-30', 'Gandhinagar', 380005, 155),
+
+-- Haryana
+(151, 'F', 'Manushi Chhillar', '1997-05-14', 'Gurugram', 122001, 156),
+(152, 'M', 'Randeep Hooda', '1976-08-20', 'Faridabad', 122002, 157),
+(153, 'F', 'Sakshi Malik', '1992-09-03', 'Hisar', 122003, 158),
+(154, 'M', 'Bhuvneshwar Kumar', '1990-02-05', 'Panipat', 122004, 159),
+(155, 'F', 'Geeta Phogat', '1988-12-15', 'Ambala', 122005, 160),
+
+-- Himachal Pradesh
+(156, 'M', 'Anurag Thakur', '1974-10-24', 'Shimla', 171001, 161),
+(157, 'F', 'Kangana Ranaut', '1987-03-23', 'Mandi', 171002, 162),
+(158, 'M', 'Jai Ram Thakur', '1965-01-06', 'Dharamshala', 171003, 163),
+(159, 'F', 'Preity Zinta', '1975-01-31', 'Solan', 171004, 164),
+(160, 'M', 'Prem Kumar Dhumal', '1944-04-10', 'Kullu', 171005, 165),
+
+-- Jammu and Kashmir
+(161, 'F', 'Mehbooba Mufti', '1959-05-22', 'Srinagar', 190001, 166),
+(162, 'M', 'Omar Abdullah', '1970-03-10', 'Jammu', 190002, 167),
+(163, 'F', 'Hina Bhat', '1981-09-21', 'Anantnag', 190003, 168),
+(164, 'M', 'Farooq Abdullah', '1937-10-21', 'Baramulla', 190004, 169),
+(165, 'F', 'Shahnawaz Hussain', '1968-12-12', 'Udhampur', 190005, 170),
+
+-- Jharkhand
+(166, 'M', 'Hemant Soren', '1975-08-10', 'Ranchi', 834001, 171),
+(167, 'F', 'Priyanka Chopra', '1982-07-18', 'Jamshedpur', 834002, 172),
+(168, 'M', 'Arjun Munda', '1968-05-03', 'Dhanbad', 834003, 173),
+(169, 'F', 'Mithila Palkar', '1992-01-12', 'Bokaro Steel City', 834004, 174),
+(170, 'M', 'Sudesh Mahto', '1966-01-25', 'Deoghar', 834005, 175),
+
+-- Karnataka
+(171, 'F', 'Anushka Shetty', '1981-11-07', 'Bangalore', 560001, 176),
+(172, 'M', 'Yash', '1986-01-08', 'Hubli', 560002, 177),
+(173, 'F', 'Ramya', '1982-11-29', 'Mangalore', 560003, 178),
+(174, 'M', 'H.D. Kumaraswamy', '1959-12-16', 'Mysore', 560004, 179),
+(175, 'F', 'Aishwarya Rai Bachchan', '1973-11-01', 'Belgaum', 560005, 180),
+
+-- Kerala
+(176, 'M', 'Pinarayi Vijayan', '1945-05-21', 'Kochi', 682001, 181),
+(177, 'F', 'Shobana', '1970-03-21', 'Thiruvananthapuram', 682002, 182),
+(178, 'M', 'Mammootty', '1951-09-07', 'Kozhikode', 682003, 183),
+(179, 'F', 'Manju Warrier', '1978-11-10', 'Kollam', 682004, 184),
+(180, 'M', 'Suresh Gopi', '1958-06-26', 'Thrissur', 682005, 185),
+
+-- Lakshadweep
+(181, 'F', 'Ayesha Sultana', '1977-08-01', 'Kavaratti', 682011, 186),
+(182, 'M', 'Muhammed Hamdulla Sayeed', '1989-07-19', 'Agatti', 682012, 187),
+(183, 'F', 'Esha Gupta', '1985-11-28', 'Amini', 682013, 188),
+(184, 'M', 'Mukesh Khanna', '1958-07-19', 'Andrott', 682014, 189),
+(185, 'F', 'Asha Bhosle', '1933-09-08', 'Minicoy', 682015, 190),
+
+-- Ladakh
+(186, 'M', 'Jamyang Tsering Namgyal', '1985-06-04', 'Leh', 194101, 191),
+(187, 'F', 'Namira Salim', '1975-12-26', 'Kargil', 194102, 192),
+(188, 'M', 'Asghar Ali Karbalai', '1983-11-10', 'Nubra Valley', 194103, 193),
+(189, 'F', 'Nupur Sharma', '1982-06-27', 'Drass', 194104, 194),
+(190, 'M', 'Nawang Rigzin Jora', '1962-06-12', 'Zanskar',194105,195);
+
+-- Sample data for REGISTERED_USER table
+INSERT INTO REGISTERED_USER (AADHAR_NO, CITIZEN_NO, REGISTERED_MOBILE_NO) VALUES
+(101000000001, 1, 1234567890),
+(102000000002, 2, 2345678901),
+(103000000003, 3, 3456789012),
+(104000000004, 4, 4567890123),
+(105000000005, 5, 5678901234),
+(106000000006, 6, 6789012345),
+(107000000007, 7, 7890123456),
+(108000000008, 8, 8901234567),
+(109000000009, 9, 9012345678),
+(110000000010, 10, 1234567890),
+(111000000011, 11, 2345678901),
+(112000000012, 12, 3456789012),
+(113000000013, 13, 4567890123),
+(114000000014, 14, 5678901234),
+(115000000015, 15, 6789012345),
+(116000000016, 16, 7890123456),
+(117000000017, 17, 8901234567),
+(118000000018, 18, 9012345678),
+(119000000019, 19, 1234567890),
+(120000000020, 20, 2345678901),
+(121000000021, 21, 3456789012),
+(122000000022, 22, 4567890123),
+(123000000023, 23, 5678901234),
+(124000000024, 24, 6789012345),
+(125000000025, 25, 7890123456),
+(126000000026, 26, 8901234567),
+(127000000027, 27, 9012345678),
+(128000000028, 28, 1234567890),
+(129000000029, 29, 2345678901),
+(130000000030, 30, 3456789012),
+(131000000031, 31, 4567890123),
+(132000000032, 32, 5678901234),
+(133000000033, 33, 6789012345),
+(134000000034, 34, 7890123456),
+(135000000035, 35, 8901234567),
+(136000000036, 36, 9012345678),
+(137000000037, 37, 1234567890),
+(138000000038, 38, 2345678901),
+(139000000039, 39, 3456789012),
+(140000000040, 40, 4567890123),
+(141000000041, 41, 5678901234),
+(142000000042, 42, 6789012345),
+(143000000043, 43, 7890123456),
+(144000000044, 44, 8901234567),
+(145000000045, 45, 9012345678),
+(146000000046, 46, 1234567890),
+(147000000047, 47, 2345678901),
+(148000000048, 48, 3456789012),
+(149000000049, 49, 4567890123),
+(150000000050, 50, 5678901234),
+(151000000051, 51, 6789012345),
+(152000000052, 52, 7890123456),
+(153000000053, 53, 8901234567),
+(154000000054, 54, 9012345678),
+(155000000055, 55, 1234567890),
+(156000000056, 56, 2345678901),
+(157000000057, 57, 3456789012),
+(158000000058, 58, 4567890123),
+(159000000059, 59, 5678901234),
+(160000000060, 60, 6789012345),
+(161000000061, 61, 7890123456),
+(162000000062, 62, 8901234567),
+(163000000063, 63, 9012345678),
+(164000000064, 64, 1234567890),
+(165000000065, 65, 2345678901),
+(166000000066, 66, 3456789012),
+(167000000067, 67, 4567890123),
+(168000000068, 68, 5678901234),
+(169000000069, 69, 6789012345),
+(170000000070, 70, 7890123456),
+(171000000071, 71, 8901234567),
+(172000000072, 72, 9012345678),
+(173000000073, 73, 1234567890),
+(174000000074, 74, 2345678901),
+(175000000075, 75, 3456789012),
+(176000000076, 76, 4567890123),
+(177000000077, 77, 5678901234),
+(178000000078, 78, 6789012345),
+(179000000079, 79, 7890123456),
+(180000000080, 80, 8901234567),
+(181000000081, 81, 9012345678),
+(182000000082, 82, 1234567890),
+(183000000083, 83, 2345678901),
+(184000000084, 84, 3456789012),
+(185000000085, 85, 4567890123),
+(186000000086, 86, 5678901234),
+(187000000087, 87, 6789012345),
+(188000000088, 88, 7890123456),
+(189000000089, 89, 8901234567),
+(190000000090, 90, 9012345678),
+(191000000091, 91, 1234567890),
+(192000000092, 92, 2345678901),
+(193000000093, 93, 3456789012),
+(194000000094, 94, 4567890123),
+(195000000101, 101, 5618901234),
+(195000000105, 105, 5672901234),
+(195000000107, 107, 5678301234),
+(195000000109, 109, 5678941234),
+(195000000111, 111, 5678951234),
+(195000000143, 143, 5678691234),
+(195000000122, 122, 5678991234),
+(195000000112, 112, 5678991234),
+(195000000139, 139, 5678991235),
+(195000000169, 169, 5678901534),
+(195000000115, 115, 6678901234),
+(195000000172, 172, 7678901234),
+(195000000137, 137, 8678901234),
+(195000000190, 190, 9678901234),
+(195000000187, 187, 5878901234);
+
+
+-- Sample data for APPOINTMENT table
+INSERT INTO APPOINTMENT (APPOINTMENT_ID, DATE, TIME, AADHAR_NO) VALUES
+(1, '2024-04-17', '09:00:00', 101000000001),
+(2, '2024-04-17', '10:00:00', 102000000002),
+(3, '2024-04-17', '11:00:00', 103000000003),
+(4, '2024-04-20', '12:00:00', 104000000004),
+(5, '2024-04-20', '13:00:00', 105000000005),
+(6, '2024-04-20', '14:00:00', 106000000006),
+(7, '2024-04-23', '15:00:00', 107000000007),
+(8, '2024-04-23', '16:00:00', 108000000008),
+(9, '2024-04-23', '17:00:00', 109000000009),
+(10, '2024-04-26', '18:00:00', 110000000010),
+(11, '2024-04-26', '19:00:00', 111000000011),
+(12, '2024-04-26', '20:00:00', 112000000012),
+(13, '2024-04-29', '21:00:00', 113000000013),
+(14, '2024-04-29', '22:00:00', 114000000014),
+(15, '2024-05-01', '23:00:00', 115000000015),
+(16, '2024-05-01', '00:00:00', 116000000016),
+(17, '2024-05-03', '01:00:00', 117000000017),
+(18, '2024-05-04', '02:00:00', 118000000018),
+(19, '2024-05-04', '03:00:00', 119000000019),
+(20, '2024-05-06', '04:00:00', 120000000020),
+(21, '2024-05-06', '05:00:00', 195000000172),
+(22, '2024-05-06', '06:00:00', 122000000022),
+(23, '2024-05-10', '07:00:00', 123000000023),
+(24, '2024-05-10', '08:00:00', 124000000024),
+(25, '2024-05-12', '09:00:00', 125000000025),
+(26, '2024-05-12', '10:00:00', 126000000026),
+(27, '2024-05-13', '11:00:00', 127000000027),
+(28, '2024-05-13', '12:00:00', 128000000028),
+(29, '2024-05-13', '13:00:00', 129000000029),
+(30, '2024-05-16', '14:00:00', 130000000030),
+(31, '2024-05-16', '15:00:00', 195000000139),
+(32, '2024-05-16', '16:00:00', 132000000032),
+(33, '2024-05-19', '17:00:00', 133000000033),
+(34, '2024-05-19', '18:00:00', 134000000034),
+(35, '2024-05-20', '19:00:00', 135000000035),
+(36, '2024-05-22', '20:00:00', 136000000036),
+(37, '2024-05-23', '21:00:00', 137000000037),
+(38, '2024-05-23', '22:00:00', 138000000038),
+(39, '2024-05-23', '23:00:00', 139000000039),
+(40, '2024-05-24', '00:00:00', 140000000040),
+(41, '2024-05-27', '01:00:00', 141000000041),
+(42, '2024-05-27', '02:00:00', 142000000042),
+(43, '2024-05-28', '03:00:00', 143000000043),
+(44, '2024-05-29', '04:00:00', 144000000044),
+(45, '2024-05-30', '05:00:00', 145000000045),
+(46, '2024-06-01', '06:00:00', 146000000046),
+(47, '2024-06-01', '07:00:00', 147000000047),
+(48, '2024-06-03', '08:00:00', 148000000048),
+(49, '2024-06-03', '09:00:00', 149000000049),
+(50, '2024-06-05', '10:00:00', 150000000050),
+(51, '2024-06-06', '11:00:00', 151000000051),
+(52, '2024-06-07', '12:00:00', 152000000052),
+(53, '2024-06-08', '13:00:00', 153000000053),
+(54, '2024-06-09', '14:00:00', 154000000054),
+(55, '2024-06-10', '15:00:00', 155000000055),
+(56, '2024-06-12', '16:00:00', 156000000056),
+(57, '2024-06-12', '17:00:00', 157000000057),
+(58, '2024-06-14', '18:00:00', 158000000058),
+(59, '2024-06-14', '19:00:00', 159000000059),
+(60, '2024-06-15', '20:00:00', 160000000060),
+(61, '2024-06-15', '21:00:00', 161000000061),
+(62, '2024-06-17', '22:00:00', 162000000062),
+(63, '2024-06-18', '23:00:00', 163000000063),
+(64, '2024-06-19', '00:00:00', 164000000064),
+(65, '2024-06-19', '01:00:00', 165000000065),
+(66, '2024-06-21', '02:00:00', 166000000066),
+(67, '2024-06-22', '03:00:00', 167000000067),
+(68, '2024-06-22', '04:00:00', 168000000068),
+(69, '2024-06-24', '05:00:00', 169000000069),
+(70, '2024-06-24', '06:00:00', 170000000070),
+(71, '2024-06-24', '07:00:00', 171000000071),
+(72, '2024-06-24', '08:00:00', 172000000072),
+(73, '2024-06-28', '09:00:00', 173000000073),
+(74, '2024-06-28', '10:00:00', 174000000074),
+(75, '2024-06-30', '11:00:00', 175000000075),
+(76, '2024-07-01', '12:00:00', 176000000076),
+(77, '2024-07-02', '13:00:00', 177000000077),
+(78, '2024-07-02', '14:00:00', 178000000078),
+(79, '2024-07-04', '15:00:00', 179000000079),
+(80, '2024-07-04', '16:00:00', 180000000080),
+(81, '2024-07-06', '17:00:00', 181000000081),
+(82, '2024-07-07', '18:00:00', 182000000082),
+(83, '2024-07-07', '19:00:00', 183000000083),
+(84, '2024-07-09', '20:00:00', 184000000084),
+(85, '2024-07-11', '21:00:00', 185000000085),
+(86, '2024-07-11', '22:00:00', 186000000086),
+(87, '2024-07-11', '23:00:00', 187000000087),
+(88, '2024-07-13', '00:00:00', 188000000088),
+(89, '2024-07-13', '01:00:00', 189000000089),
+(90, '2024-07-14', '02:00:00', 190000000090),
+(91, '2024-07-14', '03:00:00', 191000000091),
+(92, '2024-07-17', '04:00:00', 192000000092),
+(93, '2024-07-18', '05:00:00', 193000000093),
+(94, '2024-07-19', '06:00:00', 194000000094),
+(95, '2024-07-19', '07:00:00', 195000000190);
+
+
+-- Sample data for FINDS table
+INSERT INTO FINDS (CITIZEN_NO, EC_ID, PINCODE) VALUES
+-- Andaman and Nicobar Islands
+(1, 101, 744101),
+(2, 102, 744102),
+(3, 103, 744103),
+(4, 104, 744104),
+(5, 105, 744105),
+
+-- Andhra Pradesh
+(6, 106, 500011),
+(7, 107, 500012),
+(8, 108, 500013),
+(9, 109, 500014),
+(10, 110, 500015),
+
+-- Arunachal Pradesh
+(11, 111, 791101),
+(12, 112, 791102),
+(13, 113, 791103),
+(14, 114, 791104),
+(15, 115, 791105),
+
+-- Assam
+(16, 116, 781001),
+(17, 117, 781002),
+(18, 118, 781003),
+(19, 119, 781004),
+(20, 120, 781005),
+
+-- Bihar
+(21, 121, 800001),
+(22, 122, 800002),
+(23, 123, 800003),
+(24, 124, 800004),
+(25, 125, 800005),
+
+-- Chandigarh
+(26, 126, 160001),
+(27, 127, 160002),
+(28, 128, 160003),
+(29, 129, 160004),
+(30, 130, 160005),
+
+-- Chhattisgarh
+(31, 131, 490001),
+(32, 132, 490002),
+(33, 133, 490003),
+(34, 134, 490004),
+(35, 135, 490005),
+
+-- Dadra and Nagar Haveli and Daman and Diu
+(36, 136, 396001),
+(37, 137, 396002),
+(38, 138, 396003),
+(39, 139, 396004),
+(40, 140, 396005),
+
+-- Delhi
+(41, 141, 110001),
+(42, 142, 110002),
+(43, 143, 110003),
+(44, 144, 110004),
+(45, 145, 110005),
+
+-- Goa
+(46, 146, 403001),
+(47, 147, 403002),
+(48, 148, 403003),
+(49, 149, 403004),
+(50, 150, 403005),
+
+-- Gujarat
+(51, 151, 380001),
+(52, 152, 380002),
+(53, 153, 380003),
+(54, 154, 380004),
+(55, 155, 380005),
+
+-- Haryana
+(56, 156, 122001),
+(57, 157, 122002),
+(58, 158, 122003),
+(59, 159, 122004),
+(60, 160, 122005),
+
+-- Himachal Pradesh
+(61, 161, 171001),
+(62, 162, 171002),
+(63, 163, 171003),
+(64, 164, 171004),
+(65, 165, 171005),
+
+-- Jammu and Kashmir
+(66, 166, 190001),
+(67, 167, 190002),
+(68, 168, 190003),
+(69, 169, 190004),
+(70, 170, 190005),
+
+-- Jharkhand
+(71, 171, 834001),
+(72, 172, 834002),
+(73, 173, 834003),
+(74, 174, 834004),
+(75, 175, 834005),
+
+-- Karnataka
+(76, 176, 560001),
+(77, 177, 560002),
+(78, 178, 560003),
+(79, 179, 560004),
+(80, 180, 560005),
+
+-- Kerala
+(81, 181, 682001),
+(82, 182, 682002),
+(83, 183, 682003),
+(84, 184, 682004),
+(85, 185, 682005),
+
+-- Lakshadweep
+(86, 186, 682011),
+(87, 187, 682012),
+(88, 188, 682013),
+(89, 189, 682014),
+(90, 190, 682015),
+
+-- Ladakh
+(91, 191, 194101),
+(92, 192, 194102),
+(93, 193, 194103),
+(94, 194, 194104),
+(95, 195, 194105);
+
+
+
+-- Sample data for UPDATE_REQUIREMENT table
+INSERT INTO UPDATE_REQUIREMENT (UPDATE_TYPE, UPDATE_FEE) VALUES
+('Biometric Update', 50),
+('Address Update', 100),
+('Phone Number Update', 150),
+('Name Update', 200);
+
+INSERT INTO APPOINTMENT_FOR (APPOINTMENT_ID, UPDATE_TYPE, EC_ID, STATUS) VALUES
+(1, 'Biometric Update', 160, 'PENDING'),
+(2, 'Address Update', 121, 'APPROVED'),
+(3, 'Phone Number Update', 173, 'PENDING'),
+(4, 'Name Update', 124, 'APPROVED'),
+(5, 'Biometric Update', 155, 'PENDING'),
+(6, 'Address Update', 149, 'APPROVED'),
+(7, 'Phone Number Update', 111, 'PENDING'),
+(8, 'Name Update', 138, 'PENDING'),
+(9, 'Biometric Update', 163, 'APPROVED'),
+(10, 'Address Update', 166, 'PENDING'),
+(11, 'Phone Number Update', 156, 'APPROVED'),
+(12, 'Name Update', 135, 'PENDING'),
+(13, 'Biometric Update', 192, 'PENDING'),
+(14, 'Address Update', 112, 'PENDING'),
+(15, 'Phone Number Update', 102, 'PENDING'),
+(16, 'Name Update', 123, 'PENDING'),
+(17, 'Biometric Update', 186, 'PENDING'),
+(18, 'Address Update', 145, 'PENDING'),
+(19, 'Phone Number Update', 159, 'APPROVED'),
+(20, 'Name Update', 126, 'PENDING'),
+(21, 'Biometric Update', 118, 'PENDING'),
+(22, 'Address Update', 122, 'APPROVED'),
+(23, 'Phone Number Update', 107, 'PENDING'),
+(24, 'Name Update', 104, 'PENDING'),
+(25, 'Biometric Update', 170, 'PENDING'),
+(26, 'Address Update', 115, 'PENDING'),
+(27, 'Phone Number Update', 178, 'APPROVED'),
+(28, 'Name Update', 109, 'PENDING'),
+(29, 'Biometric Update', 145, 'PENDING'),
+(30, 'Address Update', 146, 'PENDING'),
+(31, 'Phone Number Update', 174, 'APPROVED'),
+(32, 'Name Update', 132, 'PENDING'),
+(33, 'Biometric Update', 193, 'PENDING'),
+(34, 'Address Update', 153, 'APPROVED'),
+(35, 'Phone Number Update', 176, 'PENDING'),
+(36, 'Name Update', 137, 'PENDING'),
+(37, 'Biometric Update', 128, 'APPROVED'),
+(38, 'Address Update', 149, 'PENDING'),
+(39, 'Phone Number Update', 105, 'APPROVED'),
+(40, 'Name Update', 122, 'PENDING'),
+(41, 'Biometric Update', 141, 'PENDING'),
+(42, 'Address Update', 161, 'APPROVED'),
+(43, 'Phone Number Update', 118, 'PENDING'),
+(44, 'Name Update', 184, 'PENDING'),
+(45, 'Biometric Update', 155, 'PENDING'),
+(46, 'Address Update', 159, 'PENDING'),
+(47, 'Phone Number Update', 124, 'APPROVED'),
+(48, 'Name Update', 170, 'PENDING'),
+(49, 'Biometric Update', 106, 'PENDING'),
+(50, 'Address Update', 186, 'APPROVED'),
+(51, 'Phone Number Update', 162, 'PENDING'),
+(52, 'Name Update', 128, 'APPROVED'),
+(53, 'Biometric Update', 149, 'PENDING'),
+(54, 'Address Update', 118, 'PENDING'),
+(55, 'Phone Number Update', 184, 'PENDING'),
+(56, 'Name Update', 115, 'APPROVED'),
+(57, 'Biometric Update', 121, 'PENDING'),
+(58, 'Address Update', 155, 'APPROVED'),
+(59, 'Phone Number Update', 176, 'PENDING'),
+(60, 'Name Update', 170, 'PENDING'),
+(61, 'Biometric Update', 186, 'PENDING'),
+(62, 'Address Update', 193, 'PENDING'),
+(63, 'Phone Number Update', 145, 'APPROVED'),
+(64, 'Name Update', 137, 'PENDING'),
+(65, 'Biometric Update', 128, 'APPROVED'),
+(66, 'Address Update', 161, 'PENDING'),
+(67, 'Phone Number Update', 106, 'PENDING'),
+(68, 'Name Update', 118, 'APPROVED'),
+(69, 'Biometric Update', 118, 'PENDING'),
+(70, 'Address Update', 186, 'PENDING'),
+(71, 'Phone Number Update', 155, 'APPROVED'),
+(72, 'Name Update', 149, 'PENDING'),
+(73, 'Biometric Update', 121, 'APPROVED'),
+(74, 'Address Update', 115, 'PENDING'),
+(75, 'Phone Number Update', 184, 'PENDING'),
+(76, 'Name Update', 170, 'APPROVED'),
+(77, 'Biometric Update', 186, 'PENDING'),
+(78, 'Address Update', 161, 'PENDING'),
+(79, 'Phone Number Update', 128, 'PENDING'),
+(80, 'Name Update', 106, 'PENDING'),
+(81, 'Biometric Update', 118, 'APPROVED'),
+(82, 'Address Update', 186, 'PENDING'),
+(83, 'Phone Number Update', 121, 'APPROVED'),
+(84, 'Name Update', 149, 'PENDING'),
+(85, 'Biometric Update', 155, 'PENDING'),
+(86, 'Address Update', 128, 'APPROVED'),
+(87, 'Phone Number Update', 106, 'PENDING'),
+(88, 'Name Update', 118, 'APPROVED'),
+(89, 'Biometric Update', 121, 'PENDING'),
+(90, 'Address Update', 186, 'PENDING'),
+(91, 'Phone Number Update', 155, 'PENDING'),
+(92, 'Name Update', 149, 'APPROVED'),
+(93, 'Biometric Update', 186, 'APPROVED'),
+(94, 'Address Update', 193, 'PENDING'),
+(95, 'Phone Number Update', 145, 'PENDING');
+
+INSERT INTO UPDATE_DOCUMENT (UPDATE_TYPE, DOCUMENT) VALUES
+('Biometric Update', 'Biometric Consent Form and Aadhaar Card or any other valid ID proof'),
+('Address Update', 'Proof of Address such as Utility Bill or Passport'),
+('Phone Number Update', 'Phone Number Verification OTP and Aadhaar Card or any other valid ID proof'),
+('Name Update', 'Name Change Affidavit or any other valid ID proof');
+
+
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Ration Card',101000000001);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Driving License',101000000001);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',101000000001);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',102000000002);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',102000000002);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',102000000002);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Voter ID',103000000003);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Passport',103000000003);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',103000000003);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Driving License',104000000004);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Voter ID',104000000004);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',104000000004);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','PAN Card',105000000005);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Driving License',105000000005);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',105000000005);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Ration Card',106000000006);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',106000000006);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',106000000006);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Voter ID',107000000007);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',107000000007);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',107000000007);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',108000000008);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',108000000008);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',108000000008);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',109000000009);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Passport',109000000009);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',109000000009);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',110000000010);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Bank Passbook',110000000010);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',110000000010);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',111000000011);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',111000000011);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',111000000011);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Voter ID',112000000012);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',112000000012);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',112000000012);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','PAN Card',113000000013);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Driving License',113000000013);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',113000000013);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Voter ID',114000000014);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Voter ID',114000000014);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',114000000014);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',115000000015);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',115000000015);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',115000000015);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','PAN Card',116000000016);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',116000000016);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',116000000016);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Ration Card',117000000017);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Voter ID',117000000017);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',117000000017);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','PAN Card',118000000018);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',118000000018);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',118000000018);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',119000000019);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Passport',119000000019);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',119000000019);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Ration Card',120000000020);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',120000000020);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',120000000020);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',121000000021);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',121000000021);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',121000000021);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',122000000022);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',122000000022);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',122000000022);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Voter ID',123000000023);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Driving License',123000000023);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',123000000023);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Voter ID',124000000024);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Passport',124000000024);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',124000000024);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Ration Card',125000000025);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',125000000025);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',125000000025);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Voter ID',126000000026);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Passport',126000000026);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',126000000026);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',127000000027);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Voter ID',127000000027);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',127000000027);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',128000000028);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',128000000028);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',128000000028);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',129000000029);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',129000000029);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',129000000029);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',130000000030);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Voter ID',130000000030);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',130000000030);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',131000000031);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',131000000031);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',131000000031);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',132000000032);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',132000000032);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',132000000032);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Ration Card',133000000033);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',133000000033);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',133000000033);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',134000000034);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',134000000034);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',134000000034);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Ration Card',135000000035);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',135000000035);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',135000000035);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',136000000036);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',136000000036);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',136000000036);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',137000000037);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',137000000037);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',137000000037);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',138000000038);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',138000000038);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',138000000038);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',139000000039);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',139000000039);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',139000000039);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',140000000040);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',140000000040);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',140000000040);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Ration Card',141000000041);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Voter ID',141000000041);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',141000000041);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',142000000042);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Passport',142000000042);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',142000000042);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',143000000043);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Passport',143000000043);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',143000000043);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',144000000044);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',144000000044);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',144000000044);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Ration Card',145000000045);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',145000000045);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',145000000045);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',146000000046);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',146000000046);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',146000000046);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',147000000047);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',147000000047);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',147000000047);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',148000000048);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',148000000048);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',148000000048);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',149000000049);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',149000000049);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',149000000049);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',150000000050);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',150000000050);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',150000000050);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',151000000051);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',151000000051);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',151000000051);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',152000000052);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',152000000052);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',152000000052);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',153000000053);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Voter ID',153000000053);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',153000000053);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',154000000054);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',154000000054);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',154000000054);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',155000000055);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',155000000055);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',155000000055);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',156000000056);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',156000000056);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',156000000056);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',157000000057);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',157000000057);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',157000000057);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Ration Card',158000000058);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',158000000058);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',158000000058);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Voter ID',159000000059);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Passport',159000000059);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',159000000059);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',160000000060);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',160000000060);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',160000000060);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',161000000061);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',161000000061);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',161000000061);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',162000000062);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Passport',162000000062);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',162000000062);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',163000000063);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',163000000063);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',163000000063);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',164000000064);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',164000000064);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',164000000064);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',165000000065);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',165000000065);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',165000000065);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',166000000066);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',166000000066);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',166000000066);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',167000000067);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',167000000067);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',167000000067);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',168000000068);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',168000000068);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',168000000068);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',169000000069);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',169000000069);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',169000000069);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',170000000070);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',170000000070);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',170000000070);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',171000000071);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',171000000071);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',171000000071);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',172000000072);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',172000000072);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',172000000072);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',173000000073);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',173000000073);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',173000000073);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',174000000074);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',174000000074);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',174000000074);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',175000000075);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',175000000075);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',175000000075);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',176000000076);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',176000000076);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',176000000076);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',177000000077);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',177000000077);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',177000000077);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',178000000078);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Passport',178000000078);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',178000000078);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',179000000079);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',179000000079);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',179000000079);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',180000000080);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',180000000080);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',180000000080);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',181000000081);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',181000000081);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',181000000081);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',182000000082);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',182000000082);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',182000000082);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',183000000083);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',183000000083);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',183000000083);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',184000000084);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',184000000084);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',184000000084);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',185000000085);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',185000000085);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',185000000085);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',186000000086);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',186000000086);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',186000000086);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',187000000087);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',187000000087);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',187000000087);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',188000000088);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',188000000088);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',188000000088);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',189000000089);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',189000000089);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',189000000089);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',190000000090);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',190000000090);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Birth Certificate',190000000090);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',191000000091);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',191000000091);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',191000000091);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',192000000092);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',192000000092);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',192000000092);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',193000000093);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',193000000093);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',193000000093);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',194000000094);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',194000000094);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','Passport',194000000094);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POI','Passport',195000000190);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POA','Ration Card',195000000190);
+INSERT INTO documents (document_types, document_submitted, AADHAR_NO) VALUES ('POB','PAN Card',195000000190);
+
+
+
+-- Sample data for ALL_STATUS table
+INSERT INTO ALL_STATUS (STATUS_TYPE) VALUES
+('Biometric Update'),
+('Address Update'),
+('Phone Number Update'),
+('Name Update');
+
+
+
+-- Sample data for ONLINE_CHECK_STATUS table with random STATUS_TYPE for all Aadhaar numbers
+INSERT INTO ONLINE_CHECK_STATUS (AADHAR_NO, STATUS_TYPE,STATUS_VALUE) VALUES
+(102000000002,'Biometric Update','ERROR'),
+(101000000001,'Biometric Update','COMPLETED'),
+(103000000003,'Address Update','PENDING'),
+(104000000004,'Phone Number Update','COMPLETED'),
+(105000000005,'Biometric Update','ERROR'),
+(106000000006,'Biometric Update','PENDING'),
+(107000000007,'Biometric Update','COMPLETED'),
+(108000000008,'Address Update','ERROR'),
+(109000000009,'Biometric Update','PENDING'),
+(110000000010,'Phone Number Update','COMPLETED'),
+(111000000011,'Address Update','ERROR'),
+(112000000012,'Biometric Update','PENDING'),
+(113000000013,'Biometric Update','COMPLETED'),
+(114000000014,'Phone Number Update','ERROR'),
+(115000000015,'Phone Number Update','PENDING'),
+(116000000016,'Phone Number Update','COMPLETED'),
+(117000000017,'Address Update','ERROR'),
+(118000000018,'Phone Number Update','PENDING'),
+(119000000019,'Biometric Update','COMPLETED'),
+(120000000020,'Phone Number Update','ERROR'),
+(121000000021,'Biometric Update','PENDING'),
+(122000000022,'Biometric Update','COMPLETED'),
+(123000000023,'Phone Number Update','ERROR'),
+(124000000024,'Address Update','PENDING'),
+(125000000025,'Biometric Update','COMPLETED'),
+(126000000026,'Phone Number Update','ERROR'),
+(127000000027,'Address Update','PENDING'),
+(128000000028,'Phone Number Update','COMPLETED'),
+(129000000029,'Phone Number Update','ERROR'),
+(130000000030,'Phone Number Update','PENDING'),
+(131000000031,'Biometric Update','COMPLETED'),
+(132000000032,'Biometric Update','ERROR'),
+(133000000033,'Biometric Update','PENDING'),
+(134000000034,'Phone Number Update','COMPLETED'),
+(135000000035,'Address Update','ERROR'),
+(136000000036,'Biometric Update','PENDING'),
+(137000000037,'Phone Number Update','COMPLETED'),
+(138000000038,'Biometric Update','ERROR'),
+(139000000039,'Biometric Update','PENDING'),
+(140000000040,'Biometric Update','COMPLETED'),
+(141000000041,'Phone Number Update','ERROR'),
+(142000000042,'Address Update','PENDING'),
+(143000000043,'Biometric Update','COMPLETED'),
+(144000000044,'Phone Number Update','ERROR'),
+(145000000045,'Phone Number Update','PENDING'),
+(146000000046,'Biometric Update','COMPLETED'),
+(147000000047,'Phone Number Update','ERROR'),
+(148000000048,'Phone Number Update','PENDING'),
+(149000000049,'Address Update','COMPLETED'),
+(150000000050,'Biometric Update','ERROR'),
+(151000000051,'Biometric Update','PENDING'),
+(152000000052,'Phone Number Update','COMPLETED'),
+(153000000053,'Phone Number Update','ERROR'),
+(154000000054,'Phone Number Update','PENDING'),
+(155000000055,'Address Update','COMPLETED'),
+(156000000056,'Biometric Update','ERROR'),
+(157000000057,'Biometric Update','PENDING'),
+(158000000058,'Phone Number Update','COMPLETED'),
+(159000000059,'Biometric Update','ERROR'),
+(160000000060,'Biometric Update','PENDING'),
+(161000000061,'Phone Number Update','COMPLETED'),
+(162000000062,'Biometric Update','ERROR'),
+(163000000063,'Address Update','PENDING'),
+(164000000064,'Biometric Update','COMPLETED'),
+(165000000065,'Biometric Update','ERROR'),
+(166000000066,'Biometric Update','PENDING'),
+(167000000067,'Biometric Update','COMPLETED'),
+(168000000068,'Address Update','ERROR'),
+(169000000069,'Phone Number Update','PENDING'),
+(170000000070,'Phone Number Update','COMPLETED'),
+(171000000071,'Phone Number Update','ERROR'),
+(172000000072,'Phone Number Update','PENDING'),
+(173000000073,'Address Update','COMPLETED'),
+(174000000074,'Address Update','ERROR'),
+(175000000075,'Phone Number Update','PENDING'),
+(176000000076,'Phone Number Update','COMPLETED'),
+(177000000077,'Phone Number Update','ERROR'),
+(178000000078,'Biometric Update','PENDING'),
+(179000000079,'Phone Number Update','COMPLETED'),
+(180000000080,'Phone Number Update','ERROR'),
+(181000000081,'Phone Number Update','PENDING'),
+(182000000082,'Biometric Update','COMPLETED'),
+(183000000083,'Biometric Update','ERROR'),
+(184000000084,'Phone Number Update','PENDING'),
+(185000000085,'Phone Number Update','COMPLETED'),
+(186000000086,'Biometric Update','ERROR'),
+(187000000087,'Address Update','PENDING'),
+(188000000088,'Biometric Update','COMPLETED'),
+(189000000089,'Phone Number Update','ERROR'),
+(190000000090,'Address Update','PENDING'),
+(191000000091,'Biometric Update','COMPLETED'),
+(192000000092,'Address Update','ERROR'),
+(193000000093,'Phone Number Update','PENDING'),
+(194000000094,'Address Update','COMPLETED'),
+(195000000190,'Address Update','ERROR');
+
+
+
+-- Sample data for EMPLOYEE table with Indian names according to states
+INSERT INTO EMPLOYEE (E_ID, E_NAME, E_EMAIL, E_PHONE_NO, DEPARTMENT_NAME, EC_ID) VALUES
+-- Andaman and Nicobar Islands
+(1001, 'Mani Kumar', 'mani.kumar@example.com', 9123456780, 'Administration', 101),
+(1002, 'Anita Devi', 'anita.devi@example.com', 9123456781, 'IT', 102),
+(1003, 'Rakesh Sharma', 'rakesh.sharma@example.com', 9123456782, 'HR', 103),
+(1004, 'Priya Singh', 'priya.singh@example.com', 9123456783, 'Finance', 104),
+(1005, 'Sanjay Patel', 'sanjay.patel@example.com', 9123456784, 'Operations', 105),
+
+-- Andhra Pradesh
+(1006, 'Ram Reddy', 'ram.reddy@example.com', 9123456785, 'Administration', 106),
+(1007, 'Lakshmi Naidu', 'lakshmi.naidu@example.com', 9123456786, 'IT', 107),
+(1008, 'Krishna Rao', 'krishna.rao@example.com', 9123456787, 'HR', 108),
+(1009, 'Suresh Kumar', 'suresh.kumar@example.com', 9123456788, 'Finance', 109),
+(1010, 'Priyanka Gupta', 'priyanka.gupta@example.com', 9123456789, 'Operations', 110),
+
+-- Arunachal Pradesh
+(1011, 'Tashi Dorji', 'tashi.dorji@example.com', 9123456790, 'Administration', 111),
+(1012, 'Aruni Das', 'aruni.das@example.com', 9123456791, 'IT', 112),
+(1013, 'Atul Pangtey', 'atul.pangtey@example.com', 9123456792, 'HR', 113),
+(1014, 'Ranjan Chetry', 'ranjan.chetry@example.com', 9123456793, 'Finance', 114),
+(1015, 'Yamini Gogoi', 'yamini.gogoi@example.com', 9123456794, 'Operations', 115),
+
+-- Assam
+(1016, 'Bijoy Baruah', 'bijoy.baruah@example.com', 9123456795, 'Administration', 116),
+(1017, 'Rita Devi', 'rita.devi@example.com', 9123456796, 'IT', 117),
+(1018, 'Pranab Hazarika', 'pranab.hazarika@example.com', 9123456797, 'HR', 118),
+(1019, 'Debjani Das', 'debjani.das@example.com', 9123456798, 'Finance', 119),
+(1020, 'Manoj Bora', 'manoj.bora@example.com', 9123456799, 'Operations', 120),
+
+-- Bihar
+(1021, 'Amit Kumar', 'amit.kumar@example.com', 9123456800, 'Administration', 121),
+(1022, 'Sangeeta Singh', 'sangeeta.singh@example.com', 9123456801, 'IT', 122),
+(1023, 'Anand Tiwari', 'anand.tiwari@example.com', 9123456802, 'HR', 123),
+(1024, 'Poonam Jha', 'poonam.jha@example.com', 9123456803, 'Finance', 124),
+(1025, 'Vikas Mishra', 'vikas.mishra@example.com', 9123456804, 'Operations', 125),
+
+-- Chandigarh
+(1026, 'Aman Verma', 'aman.verma@example.com', 9123456805, 'Administration', 126),
+(1027, 'Nisha Gupta', 'nisha.gupta@example.com', 9123456806, 'IT', 127),
+(1028, 'Rajesh Singh', 'rajesh.singh@example.com', 9123456807, 'HR', 128),
+(1029, 'Deepak Sharma', 'deepak.sharma@example.com', 9123456808, 'Finance', 129),
+(1030, 'Pooja Malik', 'pooja.malik@example.com', 9123456809, 'Operations', 130),
+
+-- Chhattisgarh
+(1031, 'Prakash Sahu', 'prakash.sahu@example.com', 9123456810, 'Administration', 131),
+(1032, 'Neelam Gupta', 'neelam.gupta@example.com', 9123456811, 'IT', 132),
+(1033, 'Amit Patel', 'amit.patel@example.com', 9123456812, 'HR', 133),
+(1034, 'Seema Tiwari', 'seema.tiwari@example.com', 9123456813, 'Finance', 134),
+(1035, 'Rahul Verma', 'rahul.verma@example.com', 9123456814, 'Operations', 135),
+
+-- Dadra and Nagar Haveli and Daman and Diu
+(1036, 'Rajesh Desai', 'rajesh.desai@example.com', 9123456815, 'Administration', 136),
+(1037, 'Priya Patel', 'priya.patel@example.com', 9123456816, 'IT', 137),
+(1038, 'Dinesh Shah', 'dinesh.shah@example.com', 9123456817, 'HR', 138),
+(1039, 'Anjali Singh', 'anjali.singh@example.com', 9123456818, 'Finance', 139),
+(1040, 'Kunal Mehta', 'kunal.mehta@example.com', 9123456819, 'Operations', 140),
+
+-- Delhi
+(1041, 'Vivek Malhotra', 'vivek.malhotra@example.com', 9123456820, 'Administration', 141),
+(1042, 'Anjali Gupta', 'anjali.gupta@example.com', 9123456821, 'IT', 142),
+(1043, 'Arun Sharma', 'arun.sharma@example.com', 9123456822, 'HR', 143),
+(1044, 'Neha Singh', 'neha.singh@example.com', 9123456823, 'Finance', 144),
+(1045, 'Rahul Khanna', 'rahul.khanna@example.com', 9123456824, 'Operations', 145),
+
+-- Goa
+(1046, 'Rohan Naik', 'rohan.naik@example.com', 9123456825, 'Administration', 146),
+(1047, 'Sneha Kamat', 'sneha.kamat@example.com', 9123456826, 'IT', 147),
+(1048, 'Avinash Prabhu', 'avinash.prabhu@example.com', 9123456827, 'HR', 148),
+(1049, 'Shreya Desai', 'shreya.desai@example.com', 9123456828, 'Finance', 149),
+(1050, 'Rohini Sardesai', 'rohini.sardesai@example.com', 9123456829, 'Operations', 150),
+
+-- Gujarat
+(1051, 'Jignesh Patel', 'jignesh.patel@example.com', 9123456830, 'Administration', 151),
+(1052, 'Rina Shah', 'rina.shah@example.com', 9123456831, 'IT', 152),
+(1053, 'Rakesh Joshi', 'rakesh.joshi@example.com', 9123456832, 'HR', 153),
+(1054, 'Pooja Mehta', 'pooja.mehta@example.com', 9123456833, 'Finance', 154),
+(1055, 'Karan Desai', 'karan.desai@example.com', 9123456834, 'Operations', 155),
+
+-- Haryana
+(1056, 'Rajesh Yadav', 'rajesh.yadav@example.com', 9123456835, 'Administration', 156),
+(1057, 'Deepika Malik', 'deepika.malik@example.com', 9123456836, 'IT', 157),
+(1058, 'Vikram Singh', 'vikram.singh@example.com', 9123456837, 'HR', 158),
+(1059, 'Neha Choudhary', 'neha.choudhary@example.com', 9123456838, 'Finance', 159),
+(1060, 'Suresh Kumar', 'suresh.kumar@example.com', 9123456839, 'Operations', 160),
+
+-- Himachal Pradesh
+(1061, 'Rajesh Verma', 'rajesh.verma@example.com', 9123456840, 'Administration', 161),
+(1062, 'Sunita Sharma', 'sunita.sharma@example.com', 9123456841, 'IT', 162),
+(1063, 'Vishal Thakur', 'vishal.thakur@example.com', 9123456842, 'HR', 163),
+(1064, 'Poonam Chauhan', 'poonam.chauhan@example.com', 9123456843, 'Finance', 164),
+(1065, 'Rakesh Kumar', 'rakesh.kumar@example.com', 9123456844, 'Operations', 165),
+
+-- Jammu and Kashmir
+(1066, 'Sameer Malik', 'sameer.malik@example.com', 9123456845, 'Administration', 166),
+(1067, 'Anjali Kaul', 'anjali.kaul@example.com', 9123456846, 'IT', 167),
+(1068, 'Rohit Sharma', 'rohit.sharma@example.com', 9123456847, 'HR', 168),
+(1069, 'Sunita Bhat', 'sunita.bhat@example.com', 9123456848, 'Finance', 169),
+(1070, 'Vikram Singh', 'vikram.singh@example.com', 9123456849, 'Operations', 170),
+
+-- Jharkhand
+(1071, 'Alok Singh', 'alok.singh@example.com', 9123456850, 'Administration', 171),
+(1072, 'Anita Kumari', 'anita.kumari@example.com', 9123456851, 'IT', 172),
+(1073, 'Vivek Tiwari', 'vivek.tiwari@example.com', 9123456852, 'HR', 173),
+(1074, 'Sangeeta Devi', 'sangeeta.devi@example.com', 9123456853, 'Finance', 174),
+(1075, 'Rahul Kumar', 'rahul.kumar@example.com', 9123456854, 'Operations', 175),
+
+-- Karnataka
+(1076, 'Karthik Gowda', 'karthik.gowda@example.com', 9123456855, 'Administration', 176),
+(1077, 'Shweta Rao', 'shweta.rao@example.com', 9123456856, 'IT', 177),
+(1078, 'Naveen Kumar', 'naveen.kumar@example.com', 9123456857, 'HR', 178),
+(1079, 'Priya Raj', 'priya.raj@example.com', 9123456858, 'Finance', 179),
+(1080, 'Suresh Hegde', 'suresh.hegde@example.com', 9123456859, 'Operations', 180),
+
+-- Kerala
+(1081, 'Rajeev Menon', 'rajeev.menon@example.com', 9123456860, 'Administration', 181),
+(1082, 'Ananya Nair', 'ananya.nair@example.com', 9123456861, 'IT', 182),
+(1083, 'Vivek Nair', 'vivek.nair@example.com', 9123456862, 'HR', 183),
+(1084, 'Priya Pillai', 'priya.pillai@example.com', 9123456863, 'Finance', 184),
+(1085, 'Suresh Menon', 'suresh.menon@example.com', 9123456864, 'Operations', 185),
+
+-- Lakshadweep
+(1086, 'Mohammed Ali', 'mohammed.ali@example.com', 9123456865, 'Administration', 186),
+(1087, 'Aisha Khan', 'aisha.khan@example.com', 9123456866, 'IT', 187),
+(1088, 'Imran Ahmed', 'imran.ahmed@example.com', 9123456867, 'HR', 188),
+(1089, 'Fatima Begum', 'fatima.begum@example.com', 9123456868, 'Finance', 189),
+(1090, 'Rizwan Khan', 'rizwan.khan@example.com', 9123456869, 'Operations', 190),
+
+-- Ladakh
+(1091, 'Tenzin Dorji', 'tenzin.dorji@example.com', 9123456870, 'Administration', 191),
+(1092, 'Stanzin Namgyal', 'stanzin.namgyal@example.com', 9123456871, 'IT', 192),
+(1093, 'Jigmet Tsering', 'jigmet.tsering@example.com', 9123456872, 'HR', 193),
+(1094, 'Sonam Wangchuk', 'sonam.wangchuk@example.com', 9123456873, 'Finance', 194),
+(1095, 'Tashi Norbu', 'tashi.norbu@example.com', 9123456874, 'Operations', 195);
+
+
+
+-- Sample data for BANK_ACCOUNT table
+INSERT INTO BANK_ACCOUNT (ACCOUNT_NO, IFSC_CODE, BANK_NAME, BRANCH) VALUES
+-- State Bank of India
+(123456789012, 123456, 'State Bank of India', 'Mumbai Central'),
+(234567890123, 234567, 'State Bank of India', 'Chennai Main'),
+(345678901234, 345678, 'State Bank of India', 'Kolkata Central'),
+(456789012345, 456789, 'State Bank of India', 'Delhi Main'),
+(567890123456, 567890, 'State Bank of India', 'Bangalore Main'),
+
+-- HDFC Bank
+(678901234567, 678901, 'HDFC Bank', 'Mumbai Central'),
+(789112345678, 789012, 'HDFC Bank', 'Chennai Main'),
+(891123456789, 890123, 'HDFC Bank', 'Kolkata Central'),
+(911234567890, 901234, 'HDFC Bank', 'Delhi Main'),
+(123456789111, 123456, 'HDFC Bank', 'Bangalore Main'),
+
+-- ICICI Bank
+(234567891011, 234567, 'ICICI Bank', 'Mumbai Central'),
+(345678911112, 345678, 'ICICI Bank', 'Chennai Main'),
+(456789101123, 456789, 'ICICI Bank', 'Kolkata Central'),
+(567890111234, 567890, 'ICICI Bank', 'Delhi Main'),
+(678901112345, 678901, 'ICICI Bank', 'Bangalore Main'),
+
+-- Punjab National Bank
+(789012345678, 789012, 'Punjab National Bank', 'Mumbai Central'),
+(890123456789, 890123, 'Punjab National Bank', 'Chennai Main'),
+(901234567890, 901234, 'Punjab National Bank', 'Kolkata Central'),
+(123456789101, 123456, 'Punjab National Bank', 'Delhi Main'),
+(234567891111, 234567, 'Punjab National Bank', 'Bangalore Main'),
+
+-- Axis Bank
+(345678910112, 345678, 'Axis Bank', 'Mumbai Central'),
+(456789111123, 456789, 'Axis Bank', 'Chennai Main'),
+(567891111234, 567890, 'Axis Bank', 'Kolkata Central'),
+(678911112345, 678901, 'Axis Bank', 'Delhi Main'),
+(789012123455, 789012, 'Axis Bank', 'Bangalore Main');
+
+-- Sample data for BANK_ACCOUNT table
+INSERT INTO BANK_ACCOUNT (ACCOUNT_NO, IFSC_CODE, BANK_NAME, BRANCH) VALUES
+-- Bank of Baroda
+(892123456789, 890123, 'Bank of Baroda', 'Mumbai Central'),
+(921234567890, 901234, 'Bank of Baroda', 'Chennai Main'),
+(123456789121, 123456, 'Bank of Baroda', 'Kolkata Central'),
+(234567891211, 234567, 'Bank of Baroda', 'Delhi Main'),
+(345678912112, 345678, 'Bank of Baroda', 'Bangalore Main'),
+
+-- Canara Bank
+(456789121123, 456789, 'Canara Bank', 'Mumbai Central'),
+(567892111234, 567890, 'Canara Bank', 'Chennai Main'),
+(678921112345, 678901, 'Canara Bank', 'Kolkata Central'),
+(789012123456, 789012, 'Canara Bank', 'Delhi Main'),
+(890123234567, 890123, 'Canara Bank', 'Bangalore Main'),
+
+-- Bank of India
+(901234345678, 901234, 'Bank of India', 'Mumbai Central'),
+(123456456789, 123456, 'Bank of India', 'Chennai Main'),
+(234567567890, 234567, 'Bank of India', 'Kolkata Central'),
+(345678678901, 345678, 'Bank of India', 'Delhi Main'),
+(456789789012, 456789, 'Bank of India', 'Bangalore Main'),
+
+-- Union Bank of India
+(567890890123, 567890, 'Union Bank of India', 'Mumbai Central'),
+(678901901234, 678901, 'Union Bank of India', 'Chennai Main'),
+(789012012345, 789012, 'Union Bank of India', 'Kolkata Central'),
+(890123123456, 890123, 'Union Bank of India', 'Delhi Main'),
+(901234234567, 901234, 'Union Bank of India', 'Bangalore Main'),
+
+-- Indian Bank
+(123456345678, 123456, 'Indian Bank', 'Mumbai Central'),
+(234567456789, 234567, 'Indian Bank', 'Chennai Main'),
+(345678567890, 345678, 'Indian Bank', 'Kolkata Central'),
+(456789678901, 456789, 'Indian Bank', 'Delhi Main'),
+(567890789012, 567890, 'Indian Bank', 'Bangalore Main'),
+
+
+(180098541233, 345678, 'Indian Bank', 'Kolkata Central'),
+(180098541234, 456789, 'Indian Bank', 'Delhi Main'),
+(180098541235, 456789, 'Indian Bank', 'Delhi Main'),
+(180098541236, 123456, 'Indian Bank', 'Mumbai Central'),
+(180098541237, 234567, 'Indian Bank', 'Chennai Main'),
+(180098541238, 345678, 'Indian Bank', 'Kolkata Central'),
+(180098541239, 456789, 'Indian Bank', 'Delhi Main'),
+(180098541240, 567890, 'Indian Bank', 'Bangalore Main'),
+(180098541241, 567890, 'Union Bank of India', 'Mumbai Central'),
+(180098541242, 678901, 'Union Bank of India', 'Chennai Main'),
+(180098541243, 789012, 'Union Bank of India', 'Kolkata Central'),
+(180098541244, 890123, 'Union Bank of India', 'Delhi Main'),
+(180098541245, 901234, 'Union Bank of India', 'Bangalore Main'),
+(180098541246, 901234, 'Bank of India', 'Mumbai Central'),
+(180098541247, 123456, 'Bank of India', 'Chennai Main'),
+(180098541248, 234567, 'Bank of India', 'Kolkata Central'),
+(180098541249, 345678, 'Bank of India', 'Delhi Main'),
+(180098541250, 456789, 'Bank of India', 'Bangalore Main'),
+(180098541251, 456789, 'Canara Bank', 'Mumbai Central'),
+(180098541252, 567890, 'Canara Bank', 'Chennai Main'),
+(180098541253, 678901, 'Canara Bank', 'Kolkata Central'),
+(180098541254, 789012, 'Canara Bank', 'Delhi Main'),
+(180098541255, 890123, 'Canara Bank', 'Bangalore Main'),
+(180098541256, 890123, 'Bank of Baroda', 'Mumbai Central'),
+(180098541257, 901234, 'Bank of Baroda', 'Chennai Main'),
+(180098541258, 123456, 'Bank of Baroda', 'Kolkata Central'),
+(180098541259, 234567, 'Bank of Baroda', 'Delhi Main'),
+(180098541260, 345678, 'Bank of Baroda', 'Bangalore Main'),
+(180098541261, 123456, 'State Bank of India', 'Mumbai Central'),
+(180098541262, 234567, 'State Bank of India', 'Chennai Main'),
+(180098541263, 345678, 'State Bank of India', 'Kolkata Central'),
+(180098541264, 456789, 'State Bank of India', 'Delhi Main'),
+(180098541265, 567890, 'State Bank of India', 'Bangalore Main'),
+
+-- HDFC Bank
+(180098541266, 678901, 'HDFC Bank', 'Mumbai Central'),
+(180098541267, 789012, 'HDFC Bank', 'Chennai Main'),
+(180098541268, 890123, 'HDFC Bank', 'Kolkata Central'),
+(180098541269, 901234, 'HDFC Bank', 'Delhi Main'),
+(180098541270, 123456, 'HDFC Bank', 'Bangalore Main'),
+
+-- ICICI Bank
+(180098541271, 234567, 'ICICI Bank', 'Mumbai Central'),
+(180098541272, 345678, 'ICICI Bank', 'Chennai Main'),
+(180098541273, 456789, 'ICICI Bank', 'Kolkata Central'),
+(180098541274, 567890, 'ICICI Bank', 'Delhi Main'),
+(180098541275, 678901, 'ICICI Bank', 'Bangalore Main'),
+
+
+(180098541276, 789012, 'Punjab National Bank', 'Mumbai Central'),
+(180098541277, 890123, 'Punjab National Bank', 'Chennai Main'),
+(180098541278, 901234, 'Punjab National Bank', 'Kolkata Central'),
+(180098541279, 123456, 'Punjab National Bank', 'Delhi Main'),
+(180098541280, 234567, 'Punjab National Bank', 'Bangalore Main'),
+
+(180098541281, 345678, 'Axis Bank', 'Mumbai Central'),
+(180098541282, 456789, 'Axis Bank', 'Chennai Main'),
+(180098541283, 567890, 'Axis Bank', 'Kolkata Central'),
+(180098541284, 678901, 'Axis Bank', 'Delhi Main'),
+(180098541285, 789012, 'Axis Bank', 'Bangalore Main'),
+
+(180098541286, 123456, 'Indian Bank', 'Mumbai Central'),
+(180098541287, 234567, 'Indian Bank', 'Chennai Main'),
+(180098541288, 345678, 'Indian Bank', 'Kolkata Central'),
+(180098541289, 456789, 'Indian Bank', 'Delhi Main'),
+(180098541290, 567890, 'Indian Bank', 'Bangalore Main'),
+
+(180098541291, 567890, 'Union Bank of India', 'Mumbai Central'),
+(180098541292, 678901, 'Union Bank of India', 'Chennai Main'),
+(180098541293, 789012, 'Union Bank of India', 'Kolkata Central'),
+(180098541294, 890123, 'Union Bank of India', 'Delhi Main'),
+(180098541295, 901234, 'Union Bank of India', 'Bangalore Main');
+
+
+
+
+
+-- Sample data for AADHAR_SERVICES table
+INSERT INTO AADHAR_SERVICES (VIRTUAL_ID, LOCK_STATUS, E_KYC_STATUS, BIOMETRIC_LOCK_STATUS, ACCOUNT_NO, IFSC_CODE) VALUES
+(101, TRUE, FALSE, TRUE, 123456789012, 123456),
+(102, FALSE, TRUE, FALSE, 234567890123, 234567),
+(103, TRUE, TRUE, TRUE, 345678901234, 345678),
+(104, FALSE, FALSE, FALSE, 456789012345, 456789),
+(105, TRUE, TRUE, FALSE, 567890123456, 567890),
+(106, FALSE, TRUE, TRUE, 678901234567, 678901),
+(107, TRUE, FALSE, FALSE, 789012345678, 789012),
+(108, FALSE, FALSE, TRUE, 890123456789, 890123),
+(109, TRUE, TRUE, FALSE, 901234567890, 901234),
+(110, FALSE, TRUE, TRUE, 123456789101, 123456),
+(111, TRUE, FALSE, FALSE, 234567891011, 234567),
+(112, FALSE, TRUE, TRUE, 345678910112, 345678),
+(113, TRUE, FALSE, TRUE, 456789101123, 456789),
+(114, FALSE, TRUE, FALSE, 567890111234, 567890),
+(115, TRUE, TRUE, FALSE, 678901112345, 678901),
+(116, FALSE, FALSE, TRUE, 789012123456, 789012),
+(117, TRUE, TRUE, FALSE, 890123234567, 890123),
+(118, FALSE, TRUE, TRUE, 901234345678, 901234),
+(119, TRUE, FALSE, FALSE, 123456456789, 123456),
+(120, FALSE, FALSE, TRUE, 234567567890, 234567),
+(121, TRUE, TRUE, FALSE, 345678678901, 345678),
+(122, FALSE, TRUE, TRUE, 456789789012, 456789),
+(123, TRUE, FALSE, TRUE, 567890890123, 567890),
+(124, FALSE, TRUE, FALSE, 678901901234, 678901),
+(125, TRUE, FALSE, FALSE, 789012012345, 789012),
+(126, FALSE, TRUE, TRUE, 890123123456, 890123),
+(127, TRUE, TRUE, FALSE, 901234234567, 901234),
+(128, FALSE, FALSE, TRUE, 123456345678, 123456),
+(129, TRUE, TRUE, FALSE, 234567456789, 234567),
+(130, FALSE, TRUE, TRUE, 345678567890, 345678);
+
+-- Sample data for AADHAR_SERVICES table (continued)
+INSERT INTO AADHAR_SERVICES (VIRTUAL_ID, LOCK_STATUS, E_KYC_STATUS, BIOMETRIC_LOCK_STATUS, ACCOUNT_NO, IFSC_CODE) VALUES
+(131, TRUE, FALSE, TRUE, 456789678901, 456789),
+(132, FALSE, TRUE, FALSE, 567890789012, 567890),
+
+(133, TRUE, TRUE, FALSE, 180098541233, 345678),
+(134, FALSE, TRUE, TRUE, 180098541234, 456789),
+(135, FALSE, TRUE, TRUE, 180098541235, 456789),
+(136, FALSE, FALSE, FALSE, 180098541236, 123456),
+(137, TRUE, TRUE, FALSE, 180098541237, 234567),
+(138, FALSE, TRUE, TRUE, 180098541238, 345678),
+(139, TRUE, FALSE, FALSE, 180098541239, 456789),
+(140, FALSE, FALSE, TRUE, 180098541240, 567890),
+
+
+(141, TRUE, FALSE, TRUE, 180098541241, 567890),
+(142, FALSE, TRUE, FALSE, 180098541242, 678901),
+(143, TRUE, FALSE, FALSE, 180098541243, 789012),
+(144, FALSE, TRUE, TRUE, 180098541244, 890123),
+(145, TRUE, TRUE, FALSE, 180098541245, 901234),
+(146, FALSE, FALSE, TRUE, 180098541246, 901234),
+(147, TRUE, FALSE, FALSE, 180098541247, 123456),
+(148, FALSE, TRUE, TRUE, 180098541248, 234567),
+(149, TRUE, TRUE, FALSE, 180098541249, 345678),
+(150, FALSE, TRUE, TRUE, 180098541250, 456789),
+(151, TRUE, FALSE, FALSE, 180098541251, 456789),
+(152, FALSE, FALSE, TRUE, 180098541252, 567890),
+(153, TRUE, TRUE, FALSE, 180098541253, 678901),
+(154, FALSE, TRUE, TRUE, 180098541254, 789012),
+(155, TRUE, FALSE, TRUE, 180098541255, 890123),
+(156, FALSE, TRUE, FALSE, 180098541256, 890123),
+(157, TRUE, FALSE, FALSE, 180098541257, 901234),
+(158, FALSE, TRUE, TRUE, 180098541258, 123456),
+(159, TRUE, TRUE, FALSE, 180098541259, 234567),
+(160, FALSE, TRUE, TRUE, 180098541260, 345678),
+(161, TRUE, FALSE, FALSE, 180098541261, 123456),
+(162, FALSE, FALSE, TRUE, 180098541262, 234567),
+(163, TRUE, TRUE, FALSE, 180098541263, 345678),
+(164, FALSE, TRUE, TRUE, 180098541264, 456789),
+
+(165, TRUE, FALSE, TRUE, 180098541265, 567890),
+
+(166, FALSE, TRUE, FALSE, 180098541266, 678901),
+(167, TRUE, FALSE, FALSE,180098541267, 789012),
+(168, FALSE, TRUE, TRUE, 180098541268, 890123),
+(169, TRUE, TRUE, FALSE, 180098541269, 901234),
+(170, FALSE, TRUE, TRUE, 180098541270, 123456),
+
+(171, TRUE, FALSE, TRUE, 180098541271, 234567),
+(172, FALSE, TRUE, FALSE, 180098541272, 345678),
+(173, TRUE, TRUE, TRUE, 180098541273, 456789),
+(174, FALSE, FALSE, FALSE, 180098541274, 567890),
+(175, TRUE, TRUE, FALSE, 180098541275, 678901),
+
+(176, FALSE, TRUE, TRUE, 180098541276, 789012),
+(177, TRUE, FALSE, TRUE, 180098541277, 890123),
+(178, TRUE, FALSE, TRUE, 180098541278, 901234),
+(179, TRUE, FALSE, FALSE, 180098541279, 123456),
+(180, FALSE, TRUE, TRUE, 180098541280, 234567),
+
+(181, TRUE, TRUE, FALSE, 180098541281, 345678),
+(182, FALSE, FALSE, TRUE, 180098541282, 456789),
+(183, TRUE, FALSE, FALSE, 180098541283, 567890),
+(184, FALSE, TRUE, TRUE, 180098541284, 678901),
+(185, TRUE, TRUE, FALSE, 180098541285, 789012),
+
+(186, FALSE, TRUE, TRUE, 180098541286, 123456),
+(187, TRUE, FALSE, TRUE, 180098541286, 123456),
+(188, FALSE, TRUE, FALSE, 180098541288, 345678),
+(189, TRUE, FALSE, FALSE, 180098541289, 456789),
+(190, FALSE, FALSE, TRUE, 180098541290, 567890),
+(191, TRUE, FALSE, FALSE, 180098541291, 567890),
+(192, FALSE, TRUE, TRUE, 180098541292, 678901),
+(193, TRUE, FALSE, TRUE, 180098541293, 789012),
+(194, FALSE, TRUE, FALSE, 180098541294, 890123),
+(195, TRUE, TRUE, FALSE,180098541295, 901234);
+
+
+
+-- Sample data for AVAIL_SERVICES table
+INSERT INTO AVAIL_SERVICES (VIRTUAL_ID, AADHAR_NO) VALUES
+(101, 101000000001),
+(102, 102000000002),
+(103, 103000000003),
+(104, 104000000004),
+(105, 105000000005),
+(106, 106000000006),
+(107, 107000000007),
+(108, 108000000008),
+(109, 109000000009),
+(110, 110000000010),
+(111, 111000000011),
+(112, 112000000012),
+(113, 113000000013),
+(114, 114000000014),
+(115, 115000000015),
+(116, 116000000016),
+(117, 117000000017),
+(118, 118000000018),
+(119, 119000000019),
+(120, 120000000020),
+(121, 121000000021),
+(122, 122000000022),
+(123, 123000000023),
+(124, 124000000024),
+(125, 125000000025),
+(126, 126000000026),
+(127, 127000000027),
+(128, 128000000028),
+(129, 129000000029),
+(130, 130000000030),
+(131, 131000000031),
+(132, 132000000032),
+(133, 133000000033),
+(134, 134000000034),
+(135, 135000000035),
+(136, 136000000036),
+(137, 137000000037),
+(138, 138000000038),
+(139, 139000000039),
+(140, 140000000040),
+(141, 141000000041),
+(142, 142000000042),
+(143, 143000000043),
+(144, 144000000044),
+(145, 145000000045),
+(146, 146000000046),
+(147, 147000000047),
+(148, 148000000048),
+(149, 149000000049),
+(150, 150000000050),
+(151, 151000000051),
+(152, 152000000052),
+(153, 153000000053),
+(154, 154000000054),
+(155, 155000000055),
+(156, 156000000056),
+(157, 157000000057),
+(158, 158000000058),
+(159, 159000000059),
+(160, 160000000060),
+(161, 161000000061),
+(162, 162000000062),
+(163, 163000000063),
+(164, 164000000064),
+(165, 165000000065),
+(166, 166000000066),
+(167, 167000000067),
+(168, 168000000068),
+(169, 169000000069),
+(170, 170000000070),
+(171, 171000000071),
+(172, 172000000072),
+(173, 173000000073),
+(174, 174000000074),
+(175, 175000000075),
+(176, 176000000076),
+(177, 177000000077),
+(178, 178000000078),
+(179, 179000000079),
+(180, 180000000080),
+(181, 181000000081),
+(182, 182000000082),
+(183, 183000000083),
+(184, 184000000084),
+(185, 185000000085),
+(186, 186000000086),
+(187, 187000000087),
+(188, 188000000088),
+(189, 189000000089),
+(190, 190000000090),
+(191, 191000000091),
+(192, 192000000092),
+(193, 193000000093),
+(194, 194000000094),
+(195, 195000000190);
+
+
+-- Sample data for PAYMENT table
+INSERT INTO PAYMENT (VIRTUAL_ID, PAYMENT_HISTORY) VALUES
+-- Payment history for virtual ID 101
+(101, 'Biometric Update - Rs. 50'),
+(101, 'Address Update - Rs. 100'),
+(101, 'Phone Number Update - Rs. 150'),
+(101, 'Name Update - Rs. 200'),
+
+-- Payment history for virtual ID 102
+(102, 'Biometric Update - Rs. 50'),
+(102, 'Address Update - Rs. 100'),
+(102, 'Phone Number Update - Rs. 150'),
+(102, 'Name Update - Rs. 200'),
+
+-- Payment history for virtual ID 103
+(103, 'Biometric Update - Rs. 50'),
+(103, 'Address Update - Rs. 100'),
+(103, 'Phone Number Update - Rs. 150'),
+(103, 'Name Update - Rs. 200'),
+
+-- Payment history for virtual ID 104
+(104, 'Biometric Update - Rs. 50'),
+(104, 'Address Update - Rs. 100'),
+(104, 'Phone Number Update - Rs. 150'),
+(104, 'Name Update - Rs. 200'),
+
+-- Payment history for virtual ID 105
+(105, 'Biometric Update - Rs. 50'),
+(105, 'Address Update - Rs. 100'),
+(105, 'Phone Number Update - Rs. 150'),
+(105, 'Name Update - Rs. 200'),
+
+-- Payment history for virtual ID 106
+(106, 'Biometric Update - Rs. 50'),
+(106, 'Address Update - Rs. 100'),
+(106, 'Phone Number Update - Rs. 150'),
+(106, 'Name Update - Rs. 200'),
+
+-- Payment history for virtual ID 107
+(107, 'Biometric Update - Rs. 50'),
+(107, 'Address Update - Rs. 100'),
+(107, 'Phone Number Update - Rs. 150'),
+(107, 'Name Update - Rs. 200'),
+
+-- Payment history for virtual ID 108
+(108, 'Biometric Update - Rs. 50'),
+(108, 'Address Update - Rs. 100'),
+(108, 'Phone Number Update - Rs. 150'),
+(108, 'Name Update - Rs. 200'),
+
+-- Payment history for virtual ID 109
+(109, 'Biometric Update - Rs. 50'),
+(109, 'Address Update - Rs. 100'),
+(109, 'Phone Number Update - Rs. 150'),
+(109, 'Name Update - Rs. 200'),
+
+-- Payment history for virtual ID 110
+(110, 'Biometric Update - Rs. 50'),
+(110, 'Address Update - Rs. 100'),
+(110, 'Phone Number Update - Rs. 150'),
+(110, 'Name Update - Rs. 200'),
+
+-- Payment history for virtual ID 111
+(111, 'Biometric Update - Rs. 50'),
+(111, 'Address Update - Rs. 100'),
+(111, 'Phone Number Update - Rs. 150'),
+(111, 'Name Update - Rs. 200'),
+
+-- Payment history for virtual ID 112
+(112, 'Biometric Update - Rs. 50'),
+(112, 'Address Update - Rs. 100'),
+(112, 'Phone Number Update - Rs. 150'),
+(112, 'Name Update - Rs. 200'),
+
+-- Payment history for virtual ID 113
+(113, 'Biometric Update - Rs. 50'),
+(113, 'Address Update - Rs. 100'),
+(113, 'Phone Number Update - Rs. 150'),
+(113, 'Name Update - Rs. 200'),
+
+-- Payment history for virtual ID 114
+(114, 'Biometric Update - Rs. 50'),
+(114, 'Address Update - Rs. 100'),
+(114, 'Phone Number Update - Rs. 150'),
+(114, 'Name Update - Rs. 200'),
+
+-- Payment history for virtual ID 115
+(115, 'Biometric Update - Rs. 50'),
+(115, 'Address Update - Rs. 100'),
+(115, 'Phone Number Update - Rs. 150'),
+(115, 'Name Update - Rs. 200'),
+
+-- Payment history for virtual ID 116
+(116, 'Biometric Update - Rs. 50'),
+(116, 'Address Update - Rs. 100'),
+(116, 'Phone Number Update - Rs. 150'),
+(116, 'Name Update - Rs. 200'),
+
+-- Payment history for virtual ID 117
+(117, 'Biometric Update - Rs. 50'),
+(117, 'Address Update - Rs. 100'),
+(117, 'Phone Number Update - Rs. 150'),
+(117, 'Name Update - Rs. 200'),
+
+(118,'Name Update - Rs. 200'),
+(118,'Address Update - Rs. 100'),
+
+(119,'Name Update - Rs. 200'),
+(119,'Address Update - Rs. 100'),
+
+(120,'Name Update - Rs. 200'),
+(120,'Address Update - Rs. 100'),
+
+(121,'Name Update - Rs. 200'),
+(121,'Address Update - Rs. 100'),
+
+(122,'Name Update - Rs. 200'),
+(122,'Address Update - Rs. 100'),
+
+(123,'Name Update - Rs. 200'),
+(123,'Address Update - Rs. 100'),
+
+(124,'Name Update - Rs. 200'),
+(124,'Address Update - Rs. 100'),
+
+(125,'Name Update - Rs. 200'),
+(125,'Address Update - Rs. 100'),
+
+(126,'Name Update - Rs. 200'),
+(126,'Address Update - Rs. 100'),
+
+(127,'Name Update - Rs. 200'),
+(127,'Address Update - Rs. 100'),
+
+(128,'Name Update - Rs. 200'),
+(128,'Address Update - Rs. 100'),
+
+(129,'Name Update - Rs. 200'),
+(129,'Address Update - Rs. 100'),
+
+(130,'Name Update - Rs. 200'),
+(130,'Address Update - Rs. 100'),
+
+(131,'Name Update - Rs. 200'),
+(131,'Address Update - Rs. 100'),
+
+(132,'Name Update - Rs. 200'),
+(132,'Address Update - Rs. 100'),
+
+(133,'Name Update - Rs. 200'),
+(133,'Address Update - Rs. 100'),
+
+(134,'Name Update - Rs. 200'),
+(134,'Address Update - Rs. 100'),
+
+(135,'Name Update - Rs. 200'),
+(135,'Address Update - Rs. 100'),
+
+(136,'Name Update - Rs. 200'),
+(136,'Address Update - Rs. 100'),
+
+(137,'Name Update - Rs. 200'),
+(137,'Address Update - Rs. 100'),
+
+(138,'Name Update - Rs. 200'),
+(138,'Address Update - Rs. 100'),
+
+(139,'Name Update - Rs. 200'),
+(139,'Address Update - Rs. 100'),
+
+(140,'Name Update - Rs. 200'),
+(140,'Address Update - Rs. 100'),
+
+(141,'Name Update - Rs. 200'),
+(141,'Address Update - Rs. 100'),
+
+(142,'Name Update - Rs. 200'),
+(142,'Address Update - Rs. 100'),
+
+(143,'Name Update - Rs. 200'),
+(143,'Address Update - Rs. 100'),
+
+(144,'Name Update - Rs. 200'),
+(144,'Address Update - Rs. 100'),
+
+(145,'Name Update - Rs. 200'),
+(145,'Address Update - Rs. 100'),
+
+(146,'Name Update - Rs. 200'),
+(146,'Address Update - Rs. 100'),
+
+(147,'Name Update - Rs. 200'),
+(147,'Address Update - Rs. 100'),
+
+(148,'Name Update - Rs. 200'),
+(148,'Address Update - Rs. 100'),
+
+(149,'Name Update - Rs. 200'),
+(149,'Address Update - Rs. 100'),
+
+(150,'Name Update - Rs. 200'),
+(150,'Address Update - Rs. 100'),
+
+(151,'Name Update - Rs. 200'),
+(151,'Address Update - Rs. 100'),
+
+(152,'Name Update - Rs. 200'),
+(152,'Address Update - Rs. 100'),
+
+(153,'Name Update - Rs. 200'),
+(153,'Address Update - Rs. 100'),
+
+(154,'Name Update - Rs. 200'),
+(154,'Address Update - Rs. 100'),
+
+(155,'Name Update - Rs. 200'),
+(155,'Address Update - Rs. 100'),
+
+(170,'Biometric Update - Rs. 50'),
+(170,'Phone Number Update - Rs. 150'),
+
+(171,'Biometric Update - Rs. 50'),
+(171,'Phone Number Update - Rs. 150'),
+
+(172,'Biometric Update - Rs. 50'),
+(172,'Phone Number Update - Rs. 150'),
+
+(173,'Biometric Update - Rs. 50'),
+(173,'Phone Number Update - Rs. 150'),
+
+(174,'Biometric Update - Rs. 50'),
+(174,'Phone Number Update - Rs. 150'),
+
+(175,'Biometric Update - Rs. 50'),
+(175,'Phone Number Update - Rs. 150'),
+
+(176,'Biometric Update - Rs. 50'),
+(176,'Phone Number Update - Rs. 150'),
+
+(177,'Biometric Update - Rs. 50'),
+(177,'Phone Number Update - Rs. 150'),
+
+(178,'Biometric Update - Rs. 50'),
+(178,'Phone Number Update - Rs. 150'),
+
+(179,'Biometric Update - Rs. 50'),
+(179,'Phone Number Update - Rs. 150'),
+
+(180,'Biometric Update - Rs. 50'),
+(180,'Phone Number Update - Rs. 150'),
+
+(181,'Biometric Update - Rs. 50'),
+(181,'Phone Number Update - Rs. 150'),
+
+(182,'Biometric Update - Rs. 50'),
+(182,'Phone Number Update - Rs. 150'),
+
+(183,'Biometric Update - Rs. 50'),
+(183,'Phone Number Update - Rs. 150'),
+
+(184,'Biometric Update - Rs. 50'),
+(184,'Phone Number Update - Rs. 150'),
+
+(185,'Biometric Update - Rs. 50'),
+(185,'Phone Number Update - Rs. 150'),
+
+(186,'Biometric Update - Rs. 50'),
+(186,'Phone Number Update - Rs. 150'),
+
+(187,'Biometric Update - Rs. 50'),
+(187,'Phone Number Update - Rs. 150'),
+
+(188,'Biometric Update - Rs. 50'),
+(188,'Phone Number Update - Rs. 150'),
+
+(189,'Biometric Update - Rs. 50'),
+(189,'Phone Number Update - Rs. 150'),
+
+(190,'Biometric Update - Rs. 50'),
+(190,'Phone Number Update - Rs. 150');
+
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (101, 'Biometric Update - 2024-04-17');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (102, 'Address Update - 2024-04-18');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (103, 'Phone Number Update - 2024-04-19');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (104, 'Name Update - 2024-04-20');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (105, 'Biometric Update - 2024-04-21');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (106, 'Address Update - 2024-04-22');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (107, 'Phone Number Update - 2024-04-23');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (108, 'Name Update - 2024-04-24');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (109, 'Biometric Update - 2024-04-25');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (110, 'Address Update - 2024-04-26');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (111, 'Phone Number Update - 2024-04-27');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (112, 'Name Update - 2024-04-28');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (113, 'Biometric Update - 2024-04-29');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (114, 'Address Update - 2024-04-30');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (115, 'Phone Number Update - 2024-05-01');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (116, 'Name Update - 2024-05-02');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (117, 'Biometric Update - 2024-05-03');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (118, 'Address Update - 2024-05-04');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (119, 'Phone Number Update - 2024-05-05');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (120, 'Name Update - 2024-05-06');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (121, 'Biometric Update - 2024-05-07');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (122, 'Address Update - 2024-05-08');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (123, 'Phone Number Update - 2024-05-09');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (124, 'Name Update - 2024-05-10');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (125, 'Biometric Update - 2024-05-11');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (126, 'Address Update - 2024-05-12');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (127, 'Phone Number Update - 2024-05-13');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (128, 'Name Update - 2024-05-14');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (129, 'Biometric Update - 2024-05-15');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (130, 'Address Update - 2024-05-16');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (131, 'Phone Number Update - 2024-05-17');
+INSERT INTO FETTCH (VIRTUAL_ID, FETCH_HISTORY) VALUES (132, 'Name Update - 2024-05-18');
+
+
